@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The benefit of the auncient bathes of Buckstones vvhich cureth most greeuous sicknesses, neuer before published: / compiled by Iohn Iones phisition. At the Kings Mede nigh Darby. Anno salutis 1572. Seene and alowed acording to the order appointed.</title>
+            <author>Jones, John, physician.</author>
+         </titleStmt>
+         <extent>Approx. 117KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14276</idno><idno type="EEBO-CITATION">99843600_8344</idno>
+  <idno type="VID">8344</idno>
+  <idno type="EEBO-PROQUEST">2248510735</idno>
+  <idno type="STC">STC 14724a.7</idno>
+  <idno type="STC">ESTC S107908</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99843600e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 8344)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 420:16b or 1855:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The benefit of the auncient bathes of Buckstones vvhich cureth most greeuous sicknesses, neuer before published: / compiled by Iohn Iones phisition. At the Kings Mede nigh Darby. Anno salutis 1572. Seene and alowed acording to the order appointed.</title>
+                  <author>Jones, John, physician.</author>
+               </titleStmt>
+               <extent>[8], 20, [4] leaves : ill. (2 folded).  </extent>
+               <publicationStmt>
+                  <publisher>Ienuarii. xviii. Imprinted at London by Tho. East, and Henry Myddleton: for William Iones. And are to be sold at his long shop at the west dore of Paules. Church,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1572 (18 Jan.)]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes index.</note>
+                  <note>Also issued as part 3 of the issue of "A briefe, excellent, and profitable discourse, of the naturall beginning of all growing and living things, heate, generation, effects of the spirits, government, use and abuse of phisicke, preservation, &amp;c." (the expanded reissue, STC 14725).</note>
+                  <note>Identified as the second part of STC 14725 at reel 420:16.</note>
+                  <note>Reproductions of the original in the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Appears at reel 420 and at reel 1855 (same copy filmed twice).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Baths --  Therapeutic use --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Early works to 1800.</term>
+               <term type="geographic_name">Buxton (Derbyshire, England) --  Description and travel --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:8344:1"/>
+            <p>¶ The Benefit of the auncient Bathes of <hi>Buckstones,</hi> vvhich cureth most greeuous Sick<g ref="char:EOLhyphen"/>nesses, neuer before published: Compiled by Iohn Iones Phisition. At the Kings Mede nigh Darby. <hi>Anno salutis</hi> 1572.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>¶ <hi>Seene and alowed acording to the order appointed.</hi>
+                           </p>
+                           <closer>
+                              <dateline>
+                                 <date>
+                                    <hi>IENVARII. XVIII.</hi>
+                                 </date>
+                              </dateline>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>¶ <hi>Imprinted at London by Tho. East, and Henry Myddleton: for William Iones. And are to be sold at his long shop at the West dore of Paules. Church.</hi>
+            </p>
+            <pb facs="tcp:8344:2"/>
+         </div>
+         <div type="frontispiece">
+            <p>
+               <figure>
+                  <figDesc>combined blazon or coat of arms of George Talbot, sixth Earl of Shrewsbury, and Elizabeth Hardwick (Bess of Hardwick), flanked by a lion and a stag, and set with a crown</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:8344:2"/>
+            <head>TO THE RIGHT HONO<g ref="char:EOLhyphen"/>rable, George, Earle of Shrewes<g ref="char:EOLhyphen"/>bury: Lord Talbot: Furniuall: Warden: and Strange, of Blackemyre: Knight of the most Noble order of the Gartyre, and one of the Queenes maiesties most honourable priuie Councell, and Iustice in Eyre, from Trent North<g ref="char:EOLhyphen"/>wardes. IOHN IONES WISHETH ALL HEALTH, long lyfe, encrease of honour, and Graces eternall.</head>
+            <p>
+               <seg rend="decorInit">A</seg>FTER that the Philosopher (right Noble Earle) had considered the moste woonderfull workes of God, and nature, so orderlie placed within the Sphere or round world, Macrocosi<g ref="char:EOLhyphen"/>mus, with all things aboue the Elementes, and Quintessence, the hyghe heauens, as the in<g ref="char:EOLhyphen"/>feriour constellations: Influences: and Begynners of corrupti<g ref="char:EOLhyphen"/>ble substances: the Elements them selues: all thinges, in the Fyre, Ayre, vvater, and Earth: be it besyde of the highest immor<g ref="char:EOLunhyphen"/>tall, and perpetuall, or of the inferiours: mortall and corrupti<g ref="char:EOLhyphen"/>ble, doing, being, growing, senting, and reasonable, as Microco<g ref="char:EOLhyphen"/>sums, man, for other vses so necessary, the heauenly bodies, con<g ref="char:EOLhyphen"/>spyred to one absolute Empyre, vvith all thinges vnder them, produced, to most effectual purposes, causing him to say, God, and nature, dyd nothing in vaine.</p>
+            <p>The which heauenly saying, dayly we fynde most true, albeit, many of those greate and hidden benefytes: preordinate by prouidence diuine: were vnknowen many yeares, to many na<g ref="char:EOLhyphen"/>cyons. Insomuch, as husbandry an arte most comune: and now of least conning: was long vnknowen: men liuing on the fruits
+<pb facs="tcp:8344:3"/>of the Erth, without any manurāce, as beasts: for vntil Dionisius his time, it was vnknowen amōgst the Egipciās, &amp; vntil Charles the fith Monarche, amongst the Indiās: as Diodorus, Polydorus and Martine Curtesse affirmeth: and in Greece and Asia, vntill Triptolemus: In Italie, vntill Saturnus: as Macrobius shew<g ref="char:EOLhyphen"/>eth. So was, vvyne, Oyle, Honie, Ale, Beere, Bread, Cheese, and infinite other thinges, after orderlie appointed, to our vses as doth appeare And, Bacchus vvas the fyrst, that of Barly made Ale, for the Egipcyans: bicause as then they had no Grapes: the which we Britaines vse still, and they of Germanie, and Flan<g ref="char:EOLunhyphen"/>dres, beere. The Iewes found oyle, as Iustinus writeth, and Gor<g ref="char:EOLhyphen"/>gonius the king, hony: Aristeus the making of cheese: Arachue Flax, and knitting, as Plinius approueth: Minerua, spinning: Nicias, fulling: Pallas clothing: Vso, apparel sayeth Eusebius, Building of houses is ascribed first to lobal, if we beleue Poli<g ref="char:EOLhyphen"/>dore: walles and towers, sayth Aristotle the Cyclopians edified: Carpentry, Dedalus inuented: sayling, Neptunus: gold Cadmus found out, first in Thrace, and Emanuel the last king of Portu<g ref="char:EOLhyphen"/>gall, sent to seeke it first in India: Siluer, Erictonius: Iron, Ideda<g ref="char:EOLhyphen"/>ctili: Lead, Mydachuitus: Brasse, Aristotle sayth, Lydius: Fyre, Vulcanus: Phisick, Apollo: amplified by AEsculapius: perfec<g ref="char:EOLhyphen"/>ted by Hippocrates: expounded by Galen. Bathes and hot hou<g ref="char:EOLunhyphen"/>ses, Nero, Agrippa, Vespasianus, Titus, and other Emperours, Kings, Philosophers and Phisitions, as testifieth Iulius Capito<g ref="char:EOLhyphen"/>linus.</p>
+            <p>So that by these and ten thousand others, we may gather, that Gods good gyfts haue not all at one time bin reuealed, nor at one instant to al nacions auayled, but some by one, in one time, some by another in another time, and all as it pleased his infinit bountie, to ayde and benefite his creatures with: as by king Bla<g ref="char:EOLhyphen"/>dud the Britten were first erected the bathes of Bath: So now we may say by your honour, the bathes of Buckstone to be be<g ref="char:EOLhyphen"/>neficially edified, worthy euery where to be notified.</p>
+            <p>Of the which, by Gods help, and your honours protection,
+<pb facs="tcp:8344:3"/>somewhat shalbe shewed hitherto vnknowen, that the benefite thereof, may the better be perceaued.</p>
+            <p>The which worke, howsoeuer it be, I beseech your Noblenes to accept, as that which of most right, to you of duety belongeth. And, forasmuch as your care hath ben therein, to the benefyte of all: It is right that of all, you should be highlie magnified, for your vertuouse exployte, accomplishing of so noble a be<g ref="char:EOLhyphen"/>nefyte, and that in this our age, when as the most sort, are giuen to seeke worldlie gayne, rather then the publique proffet (the more pittie it is to speake it) and that such, as to themselues, and theyrs, onelie, might belong. But your vertuouse industry, is, &amp; hath ben, for the benefyt, of the vniuersall people of God: as a thing, descending from your parents: and of you enherited. Therfore, to you mightie Erle I dedicate, these my labours, and playne Treatise, entytuled <hi>Buckstones Benefyte,</hi> bicause, by you is accomplyshed, and notified, euery wher, that which was in a maner hydden, and vnknowen, to all a far of, and vnto the most neere hand. If, I should here shew, how greatlie they are to bee extolled: that take such paine, and be at such cost: for the wele publique: I might rather make a newe volume: then fynish this. As it may easilie appeare, by that which is already expres<g ref="char:EOLhyphen"/>sed. VVherfore, I will stay my pen, for that, I confesse my selfe farre vnable: to set out the condigne prayses: that eyther too your honour belonge, for the true loue assurid Loyaltie, and great trust: vnto your puissance comitted: or the worthy benefytes: that the Bathes, or vvels, of Buckston do yelde.</p>
+            <p>Notwithstanding, great Alexander, retained with him in great fauour: one that wrote his hystory: albeit, it was not most ele<g ref="char:EOLhyphen"/>gantlie penned (as Quintus Curtius affirmeth) bicause, it might encourage, some of more eloquence, to take in hand, the like enterpryse: for, otherwise what had auayled the fame of hys conquest? when that age had expired, if none had taken in hand: for the posterities to haue remembred: whose example herein I haue folowed.</p>
+            <pb facs="tcp:8344:4"/>
+            <p>For that, so great a benefyte, as is Buckstons Bathes, vvithin the edifices vnder a bushel should not be ouerwhelmed: not, with out the order heerein expressed how to vse them: frequented. Vntill some other of more learning will better handle hit. Cra<g ref="char:EOLhyphen"/>uing nothing els for my paynes but that it may of your Lord<g ref="char:EOLhyphen"/>ship bee vvel excepted praying for the long preseruacion and encrease of your honour, in all helth, welth, and felicitie. Amen.</p>
+            <closer>
+               <signed>Your Lordships euer at com<g ref="char:EOLhyphen"/>maundment, Iohn Iones.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:8344:4"/>
+            <head>Carmina. ¶ Christophori Carlili ad Lectorem.</head>
+            <l>DIceres phoebum genuisse Ionsum</l>
+            <l>Rupe parnasi: peperisse Cirrhae.</l>
+            <l>Aut in extremis heliconis antris Palladis aluum</l>
+            <l>Naiades nouit, dryades fauebant</l>
+            <l>Tartary nimphae, liquidae napeae</l>
+            <l>Ac mettallarum stygiae camenae Castalides{que}.</l>
+            <l>Feruidos fontes, calidas{que} thermas</l>
+            <l>Et poros terrae resecat, docet nos</l>
+            <l>Cur tot aegrotis medeantur vndae sulfure plenae.</l>
+            <l>Hunc librum legant medici baldenses</l>
+            <l>Westphali: Rhem scatebras colentes</l>
+            <l>Vnde naturas laticum tepentes Discere possint.</l>
+         </div>
+         <div type="poem">
+            <head>Thomas Lupton to the Reader.</head>
+            <l>THough forrein soyle in worthy gifts doth maruelously abound, </l>
+            <l>yet England may be bold to bost, wherin the like are found. </l>
+            <l>How many vse to bathes abrode far hence with cost to range, wherby they may their lothsome lims to helthfull members change </l>
+            <l>But such (onlesse they more desire for wil then helth to rome) </l>
+            <l>they may haue help with charges lesse and soner, here at home, </l>
+            <l>At Buckstones bathes whose vertues here, is lernedly displayd. </l>
+            <l>Therfore disdaine not this to read that hath the same bewrayd.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="list_of_authorities">
+            <pb facs="tcp:8344:5"/>
+            <head>
+               <hi>CATALOGVS AVTHORVM</hi> in hoc opere citatorum, Alphabetico ordine congestus.</head>
+            <list>
+               <item>Aristoteles.</item>
+               <item>Auicennas.</item>
+               <item>Auerhois.</item>
+               <item>Auenzoar.</item>
+               <item>Antylus.</item>
+               <item>Athanaeus.</item>
+               <item>Amatus Lusitanus.</item>
+               <item>Arnoldus de Vill.</item>
+               <item>Aetius.</item>
+               <item>Aesculapius</item>
+               <item>Benedictus Victor.</item>
+               <item>Baptista Montan.</item>
+               <item>Cornelius Celsus.</item>
+               <item>Conciliator.</item>
+               <item>Dioscorides.</item>
+               <item>Diodorus Siculus</item>
+               <item>Damascenus</item>
+               <item>Eusebius.</item>
+               <item>Fernelius Ambianus</item>
+               <item>Gentilis</item>
+               <item>Galenus.</item>
+               <item>Gordonius.</item>
+               <item>Georgius Agricola.</item>
+               <item>Gabriel Fallopius.</item>
+               <item>Halyabbas.</item>
+               <item>Hippocrates.</item>
+               <item>Hieronimus Mont.</item>
+               <item>Hieronimus Carda.</item>
+               <item>Ioanicius.</item>
+               <item>Iustinus.</item>
+               <item>Iulius Capitolinus.</item>
+               <item>Ioannes Almenar.</item>
+               <item>Ioannes de monte regio.</item>
+               <item>Iacobus Siluius.</item>
+               <item>Ioannes Bachanellus</item>
+               <item>Ioannes a Sanc. A<g ref="char:EOLhyphen"/>mando.</item>
+               <item>Leonhartus Fuchsius</item>
+               <item>Marcrobius.</item>
+               <item>Munsterus</item>
+               <item>Martinus Curtesius.</item>
+               <item>Leonellus Fauen<g ref="char:EOLhyphen"/>tinus.</item>
+               <item>Mesue.</item>
+               <item>Manardus.</item>
+               <item>Mathaeus Graduens.</item>
+               <item>Mathiolus.</item>
+               <item>Nicolaus Massa.</item>
+               <item>Nicolaus Myrep.</item>
+               <item>Nicolaus praepositus</item>
+               <item>Nicolaus Alexand.</item>
+               <item>Oribasius.</item>
+               <item>Plato.</item>
+               <item>Plinius.</item>
+               <item>Paulus Aegineta.</item>
+               <item>Ptolomaeus</item>
+               <item>Polidorus Virgilius.</item>
+               <item>Quintus Curtius</item>
+               <item>Ruellius.</item>
+               <item>Tagaltius.</item>
+               <item>Tralianus.</item>
+               <item>Theion.</item>
+               <item>Valescus de Tarant.</item>
+               <item>Valerius Cordus.</item>
+               <item>Vldericus Hutton.</item>
+            </list>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:8344:5"/>
+            <head>¶ To the Christian <hi>READER.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">E</seg>Ven as in one househould or familie (gentle Reader) the Chyldren, begotten betwene one Father and one Mother: doe differ one from another, aswell, in proporcion of body, as in wyt, disposition; and maners: Euen so, men of one facultie, in sundry things, be of sun<g ref="char:EOLunhyphen"/>dry inuencions, iudgementes, and dispo<g ref="char:EOLhyphen"/>sicions: aswell Diuines, Lawiers, Phi<g ref="char:EOLhyphen"/>losophers, as Phisiciōs, no maruail ther<g ref="char:EOLunhyphen"/>fore, if others. So hard it is for any man, be it neuer so frēdly intēded: neuer so stu<g ref="char:EOLhyphen"/>diously laboured: neuer so profitable, for, the wele publike: to set forth any thing, for al mens liking, that euen most of the wisest sort (as many men think) set forth nothing by printing: bicause, many now a daies are giuē, to the searching out ra<g ref="char:EOLhyphen"/>ther, (if they cā) to blot him, with the lest matter (if there bee no greater) and let the common profyt, then too seeke the thinge that may all men benefyte, ey<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:8344:6"/>the same to commend, or therto too adde any credite.</p>
+            <p>These, and such lyke causes, haue letted many (as I deme) frō the attempting of this (howsoeuer it be) which I haue ac<g ref="char:EOLhyphen"/>complished, of Buckstons benifite: aduen<g ref="char:EOLunhyphen"/>turing rather for my part, to be stong of the Drones, then to leaue the good hony vnsought and to be barked at, with such vnkind curs, then to leaue the Master of the house helples: trusting that the wise, Graue, Learned, Curteouse, &amp; Louing sort, wil accept the endeuour of him, who asmuch as in him lieth (for y<seg rend="sup">e</seg> tyme) doth seeke, how he may best profit the vniuer<g ref="char:EOLhyphen"/>sall people of God, and in speciall, hys owne countrymen that bee vexed with such greuous sicknesses, as they despaire of remedy, by any other meanes.</p>
+            <p>Galen, whē he came first to Rome, sent for by Marcus Aurel. Willing his Lief<g ref="char:EOLhyphen"/>tenant, that he shuld honorably furnishe him with men, money, horse, &amp; municion as very noblie he did: for that he was de<g ref="char:EOLhyphen"/>sirous greatly of his consayle. Commo<g ref="char:EOLhyphen"/>dus his sonne being very sicke of a feuer,
+<pb facs="tcp:8344:6"/>the which at the first sight, hee presaged (for that the Crisis so prognosticated, a knowledge by him throughly labored, as he that was most expert in phisicke) that he should haue his fit no more: whereat, the Phisicions of the Emperours hyghe councell, meruayled, &amp; whē they saw the effect, greatly disdayned (for such know<g ref="char:EOLhyphen"/>ledge they had not studied) where they should haue louingly embraced him, and highly haue cōmended him, for Tagalti<g ref="char:EOLunhyphen"/>us saieth, the maners that to Phisicions belonged, are that thei be of gentle enter<g ref="char:EOLunhyphen"/>taynement, curteouse, &amp; friendly toward such as be of their own professiō, in greek termed Philateiras. But what did hee? leaue his well dooing for all their enuy<g ref="char:EOLhyphen"/>ing? no truly. So much was hee gyuen the vniuersall world to profyt, more ear<g ref="char:EOLhyphen"/>nestly proceeded forward in all good doc<g ref="char:EOLhyphen"/>trine, as by his workes made there, both against Erasistratus, cōcerning letting of blood: and against Thessalus Trali<g ref="char:EOLhyphen"/>anus, about the healing of vlcers, maye appeare: prouing &amp; reprouinge, by most waighty arguments, &amp; best authorities,
+<pb facs="tcp:8344:7"/>al that he did not waying the disdain of a fewe, so that he might profyt all, as no dout he hath al the world. Let Paracel<g ref="char:EOLhyphen"/>sus (&amp; all other vayn practisers do what they can) with his fyre work, of three be<g ref="char:EOLhyphen"/>ginnings, of salt, Brimstone, and quick<g ref="char:EOLhyphen"/>siluer, blowing the coles vnto ashes, and stilling til they haue no glasses, as wyse as geese, as reasonable as apes, as trim as Colyers, and as riche as newe shorne sheepe.</p>
+            <p>Now seeing Galen, in whō was heaped as in a grainard: all knowledge both philosophicall, &amp; phisicall, was enuyed, disdained, backbyted, and yet of some is: what shal I think to go scotfre, that am so far inferiour vnto him, as is the schol<g ref="char:EOLhyphen"/>ler, vnto the maister? No no, therefore I will arme my head with patience: and my harte with a cleare Conscience, pro<g ref="char:EOLhyphen"/>testing before GOD: and men, (which thorow the enuiousnes of the time I am driuē vnto) that this, that I haue done, I haue done neyther of a proud mynd, ambicious desire, or ouerwening in my selfe, but of a very feruent zeale, to the
+<pb facs="tcp:8344:7"/>preseruation of health, and mayntay<g ref="char:EOLhyphen"/>ning of lyfe: bycause I sawe so many repaire thither, without al order. By meanes whereof, some went away very sick, that came thither indyfferent well. Some neuer a whit the better: whiche if they had had good counsail, might. And some, more by hap then by cunning: as it dyd them no good, so dyd it them no harme.</p>
+            <p>These things wayed, I began to con<g ref="char:EOLhyphen"/>sider with my self, of many things dout<g ref="char:EOLhyphen"/>ting, whether it were better, to let passe, as other wiser, &amp; better lerned thē I had done such matters, or to procede therein. The which, whē I had attēpted, more and more I saw was too bee sayde, min<g ref="char:EOLhyphen"/>ding to haue gone no further: thus be<g ref="char:EOLhyphen"/>twene dout and despair, hapned to come vnto me, of the lerned some, &amp; other of the gentility, wise &amp; expert that feared God, loued their country: and hearing that I had begon suche a matter of Buckstone, as I had of Bath: instātly desired mee, to goe forward, affirming, I should doo a gratefull deed too the common weale
+<pb facs="tcp:8344:8"/>of my natiue coūtry, &amp; that for the north parts, &amp; West: aswel as the South: yea &amp; if it were not so well done as some others of more wisedome, learning, &amp; experience could, (as I think of my self it is not) yet bicause it should encourage some other, if they saw myne not sufficient to amende (as it is easier then to begin) that which I haue rudely rouded ouer. Albeit al that which I haue done, is collected out of the best writers in phisick: and for these .xiiii. yeres &amp; more, proued. Trusting it will be wel accepted, seeing the profit is thyne, &amp; the labor myne. But if ther be any so af<g ref="char:EOLhyphen"/>fectionated to Rhetorique, that vnlesse they find a moulhil made a mountayne, or an Emet, an Elephāt, think the mat<g ref="char:EOLhyphen"/>ter vnperfect let them consider that.</p>
+            <p>
+               <hi>Non cupit ornari, cupit, &amp;c.</hi> Or if, they suppose knowledge nothinge worthe, vttered in their own language. Thē I must nedes say, they shall find this of Buckstons be<g ref="char:EOLhyphen"/>nefyt, &amp; also Bathes aide vnperfect. How<g ref="char:EOLunhyphen"/>beit, of this if they consider, they may ea<g ref="char:EOLhyphen"/>sily fynde whether a thing briefely and plainly taught, bee better, or a thing ob<g ref="char:EOLhyphen"/>scure
+<pb facs="tcp:8344:8"/>&amp; intricate: and whether a thinge familiar, or a thing straunge be easiest to iudge of, what neede many wordes? If a longe discourse had more needed, then a short: Hippocrates had not written his Aphorisines, nor Galen Ars parua: ney<g ref="char:EOLhyphen"/>ther had they writen in Greeke, when as all Grece vnderstoode Greeke, aswell as they, or we in England english. But had deuised some new tongue: a matter of no great labour: for the Drawcabiō tongue of fiue yeares standing, as it was in a day inuented. So was it in a weeke per<g ref="char:EOLhyphen"/>fected: &amp; is with some, for their pleasures in daily vse. But these toies, were far frō their meaning, &amp; so I dout not, but they be now from the wyse, or els, the guide of the soule, Gods woord, had not bin in our owne tongue vttered, nor of Paule, so ap<g ref="char:EOLhyphen"/>pointed. And therfore, if with the matter any be offended, let thē be offended with the best learned, whose example herein I haue followed, and out of whom this is collected. If the phrase like them not, I wishe them to thinke, so many men, so many wittes: so many styles, so many
+<pb facs="tcp:8344:9"/>deuises, as you haue hard. If the style be to playne, I would haue them to remē<g ref="char:EOLhyphen"/>ber, whether heuy things be easier of dis<g ref="char:EOLhyphen"/>gestion, or light: and briefly to conclude, whether their own familiar spech: their own lawes: or the Romains be better, &amp; easyer, too Iudge of. Too conclude, if the matter be best whiche the approued writers, obserue &amp; affirme: then I dare say, this is not all ill. If the phrase be best that is most playn, thē this is not worst. If the style or endyting be best which cō<g ref="char:EOLhyphen"/>tinueth the matter: then this is not vt<g ref="char:EOLhyphen"/>terly to bee disallowed. In fyne, if the mother tongue be most meete for hir own children, and easyest to be vnderstanded, then this in our own, you will affirme, is not to bee abandoned. So that I wil thus ende.</p>
+            <q>
+               <hi>Foelix, à tergo quem nulla ciconia punxit.</hi>
+            </q>
+            <p>Thus wishinge thee good Reader all health, with all other thinges thy moste gentle hart desyreth, rest thyne whyles I lyue as thou fyndest.</p>
+            <closer>
+               <signed>Iohn Iones.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:8344:9"/>
+            <head>¶ <hi>A Description of the wonder<g ref="char:EOLhyphen"/>full</hi> vertue of the Bathes <hi>at Buckstone.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">E</seg>VEN</hi> as, in our former Treatise, of the Bathes of Bathe, we haue shewed the an<g ref="char:EOLhyphen"/>tiquitie, comoditie, propertie, vse, dyete, Aphorismes, &amp; medicines, with all thinges requisite, in our iudgement, for to bée no<g ref="char:EOLhyphen"/>ted and obserued of all such as ther intend (through knowledge) to séeke any bene<g ref="char:EOLhyphen"/>fite. So, now it resteth that in this Treatice wée expresse lykewise the Benefyte of Buckstons Bathes, or Welles, in the hygh Peke, in the Countie of Darby, ten myles from the woorthie Edifices, Chatsworth <hi>.16.</hi> myles from Manche<g ref="char:EOLhyphen"/>ster <hi>.16.</hi> myles from Market Chester field <hi>.20.</hi> from Darby, <hi>30.</hi> from the famouse and auncient Citie Westchester, <hi>30.</hi> from the Citie of Lychfield, <hi>30.</hi> from Stafford.</p>
+            <p>Of the origine, of the name, and why it was called Buckstons well, I neyther could reade it in any Authour, nor heare of any as yet. This is asmuch, as I suppose, may bée gathered thereof, that it hath the name of the Towne: and the Towne lykewyse hath the name of some one so cal<g ref="char:EOLhyphen"/>led (for of such there bée diuers) and the <hi>Danes</hi> and <hi>Saxons,</hi> aswell as the <hi>Britaynes</hi> were wont to name their townes after their own names, as it is euidēt of very many places in this lande: and a Saxon, or English name it is, and no Brittish, or Welsh: And therefore, sithence <hi>Engistus,</hi> it hath his denomination. Howbeit, many yeares past, it was fre<g ref="char:EOLhyphen"/>quented for the health of thousandes, by bathing them: as<g ref="char:EOLhyphen"/>well as it is in these our dayes. For, betwéene Burghe and it, there is an high way forced ouer the moores, all paued,<note place="margin">Buckstones Bathes of great anti<g ref="char:EOLhyphen"/>quitie.</note> of such antiquity as none can expresse, called Bathgate: albée it more of a superstitiouse hope they had in thywell, than of
+<pb facs="tcp:8344:10"/>
+               <q rend="inline">any affiance thei had in the qualitie, tēperature, or property of the Bath: for of it and the vse therof, they were ignorant.</q>
+            </p>
+            <p>Moreouer, It is not vnlikely that the stagges or buckes wounded, would take soyle ther, and there the fosters of the forrest, called it Buckstand: but in my iudgement, the for<g ref="char:EOLhyphen"/>mer supposition is more likely. And as for Cottrels tale, or the vayne inuencions about S. Aune found in the well, or of the water fet from flood Iordan. I reckē not them worthy the recitall. Therefore, I will not detayne you with suche tryfles, our dayes being so short: and the reason of the arte, so hard to attayne, (as <hi>Hypocrates, 1. lib. Aph. primo</hi> sayeth) passing ouer, the distinction of bathes here in this Treatise, and definition of artificiall: bicause in my first booke of the Bathes of Bathe, they be shewed, contenting vs with the naturall.</p>
+            <p>Naturall bathes be those, which flow throw the entralles of the earth: taking their effect of such things, as they runne thorow,<note place="margin">Significatiō of Bathes.</note> and receyue power by: for many infirmities moste auaylable. The differences of which hose naturall Bathes of Buckstone, by what meanes, of what mynerals, for what gréefes, infirmities, and sicknes they serue best, shal be pro<g ref="char:EOLhyphen"/>secuted with all possible breuity, as far foorth as herein my iudgement is necessary: séeing that in our seconde Booke of Bathes ayde, you may find such things sufficiently skāned: and therefore vnnéedfull here of repeticion.</p>
+            <p>First of the chéefe Bathe which is the warmer springe, voyde in effect of all corrupcion, arguing therfore, no great quantitie of brimstone (as in Bathe) nor of allume, as some haue bruted. For then it should not onely bée of another col<g ref="char:EOLhyphen"/>lour, marly yellow, or swarty gréene: but also it might sen<g ref="char:EOLhyphen"/>sibly be perceyued by taste: albeit I acknowledge that <hi>Ari<g ref="char:EOLhyphen"/>stotle</hi> affirmeth, that there is no such hose spring, without y<seg rend="sup">e</seg> myne of brymston And I think with <hi>Fal.</hi> &amp; <hi>Sauona. Rubr. de therm.</hi>
+               <note place="margin">Falopius li. de Soss.</note> none without firie heat: although the quantitie may
+<pb n="2" facs="tcp:8344:10"/>differ: and that may wel appeare. For if the quantitie were equal and like to the mynerals in Bath, the heat of as great force, fortified with like <hi>Antiparistasis,</hi> and as néere to the head, then it should little in that respect, vary from Bathe. But it séemeth &amp; sure it is so, that Buckstons bathes haue not the fourth part of that heate which the bathes of Bathe haue, nor the other mynerals that bée ther. For Buckstons is much like as if a quart of boyling water were commixed with a galond of cold water. But Bath is, as if too a galond of séething water were put a quart of cold water. By reason wherof, it attrecteth and dissolueth more spéedly. But buck<g ref="char:EOLhyphen"/>stone more swéetly, more delicatly, more finely, more daint<g ref="char:EOLhyphen"/>ly, and more temperatly: not bringing halfe so many grée<g ref="char:EOLhyphen"/>uouse accidentes as Bath doth, yit lesse spéedly: but in pro<g ref="char:EOLhyphen"/>cesse of tyme, very effectuousely, and for many infirmities,<note place="margin">No greuous accident fo<g ref="char:EOLhyphen"/>lowing Buc<g ref="char:EOLhyphen"/>stones Baths</note> more commodiously, restrayninge vnnaturall issues, and strengthning the féeble members: assisting the animall, vi<g ref="char:EOLhyphen"/>tall, and naturall faculties: dispersing opilacions, and qua<g ref="char:EOLhyphen"/>lifying gréefes.</p>
+            <p>The well springes be situate in a valley, hard by a run<g ref="char:EOLhyphen"/>ning brooke, and runneth into it. Where at the méeting you may sensibly percegue and féele the hot water on the one syde of the riuer, and the colde on the other. Notwithstan<g ref="char:EOLhyphen"/>ding, so commixed after, that it letteth the riuer of fresshing, in the coldest weather, for the space of a quarter of a myle, an argument of the power of the heate of those springes which be thrée especiall, and those very excellent, and benefi<g ref="char:EOLhyphen"/>ciall for diuers distemperatures, gréefes and sicknesses,<note place="margin">iij cheefe Bathes at Buckstone</note> as hereafter shalbe further shewed, God assisting.</p>
+            <p>But there be fiue or fixe other, although not so good: yet it maye bée presupposed, that if there were boryers, suche as mynerall men vse in searching ore: too meete with the Springes, of somme of the other, that the colde water, which is commixed wyth the hote, myght bée turned away:
+<pb facs="tcp:8344:11"/>that then no doubt,<note place="margin">The run<g ref="char:EOLhyphen"/>ning of the springs in the baths of Buckstone.</note> they would bée more excellent. For that the more cold infirmities, might be cured by them, béeing made more hot. For vndoutedly, as myne one foote should steppe on the hot spring, the other would light on a colde: yea the one finger, I might put in the one, and another in the other, especially in those below. <q rend="inline">Howbeit, you may find in any some alteration, albeit not so much by a greate deale.</q>
+            </p>
+            <p>Ioyning to the chéefe springe, betwene the riuer, and the Bathe, is a very goodly house, foure square, foure stories hye,<note place="margin">A goodly house and buildings of the Earle of Shrewsbury vppon the bathes syde.</note> so well compacte, with houses of office, beneath and a<g ref="char:EOLhyphen"/>boue, &amp; round about, with a great chambre, and other goodly lodgings, to the number of. <hi>30:</hi> that it is and wilbée a bewty to behold: &amp; very notable for the honorable and worshipfull, that shal néede to repaire thither: as also for other. Yea, the porest shal haue lodgings, &amp; beds hard by, for their vses only. The baths also so brauely beutified with seats round about: defended from the ambyent ayre: and chimneys for fyre, <q rend="inline">to ayre your garmintes in the Bathes syde, and other necessa<g ref="char:EOLhyphen"/>ries most decent.</q> And truely, I suppose that if there were for the sicke a Sanctuarie, during their abode there, for all causes, sauing sacriledge, treason, murther, burglary, rape and robbing by the hye way syde,<note place="margin">A sanctua<g ref="char:EOLhyphen"/>ry. market. Fayre. A license to eate flesh would doo well.</note> with also a lycense for the sicke, to eate fleshe at all tymes, and a fryday market wéeke<g ref="char:EOLhyphen"/>ly, and twoo fayres yéerely, it should be to the posterities, not onely commodiouse, but also to the Prince great honour &amp; gayne. It is situate in a goodly seate, and that in an excel<g ref="char:EOLhyphen"/>lent and hungry soyle, passing healthy, and in tyme would grow, to bée very welthy: and the commons about, would bée reduced to great fertilitie, for the ground on the one side is full of Lyme stones, bringing good grayne: on the other, a fyne black moulde, and a grosse. <q rend="inline">Great pitie, that such commons in all places be no better manured, séeing that in<g ref="char:EOLhyphen"/>finite thousandes, in the realme,</q> might the more bée main<g ref="char:EOLhyphen"/>tayned,
+<pb facs="tcp:8344:12"/>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="later_insert">
+                           <p>
+                              <figure>
+                                 <figDesc>inserted picture representing the Hall and Well at Buxton, an inset to John Speed's 1610 map of Derbyshire</figDesc>
+                                 <byline>Performed by John speede, and are to be sold in popes head Alley by Iohn Sudbury and G. Humble</byline>
+                                 <p>BUXTON</p>
+                                 <p>Sainte Annes well</p>
+                                 <p>A Cold spring</p>
+                              </figure>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <pb n="3" facs="tcp:8344:13"/>not onely to the great preseruacion of the kingdom but also greater to the princes reuenewe. For foure partes (I dare say) of the land lyeth waste, and common, that might be brought to the publique profit, aswell to the increase of men, money, and municion: as, to the greater terrour of forrayne Dominion, how so euer ydle wittes vse to comon with a Shephardes cloke of their owne framing. Howbée<g ref="char:EOLhyphen"/>it, in winter it is somewhat stormie: but yet nothing lyke Kerby, Kendall, in Cumbreland: nor to Brecknocke in Southwales: nor to Kayer Neruame, in Northwales: nor to Bodnam in Cornewall: all the which notwithstanding, be goodly Townes, and wealthy, and through industrie, made to the state, very profitable, as in tyme no doubt, this would: hauing passing them (as you may perceyue) a thou<g ref="char:EOLhyphen"/>sand partes, a commoditie, vnto the whiche, out of all quar<g ref="char:EOLhyphen"/>ters of the worlde, not without iust cause, would repayre very many, and the rather a great deale being in this sorte furnished, to their benefyte, with a Phisicion, placed conti<g ref="char:EOLhyphen"/>nually, that might not onely counsayle therein how the bet<g ref="char:EOLhyphen"/>ter to vse Gods benefyte: the which, God willing,<note place="margin">A Phisicion entertaineth alwayes.</note> shalbe ap<g ref="char:EOLhyphen"/>pointed, but also adapt theire bodyes, makinge artificiall Bathes, by vsing thereof, as the case shall requyre, with ma<g ref="char:EOLhyphen"/>ny other profitable deuyses, hauing all things for that vse, or any other, in a redinesse, for all the degrees, as before it bée longe, it shal be séene, of the noble Earles own performing. All these things layd and grounded, this resteth of vs fur<g ref="char:EOLhyphen"/>ther (as it may) to be discussed, whereof the Bathes take their benefite: and therevppon, what they ease and helpe, as dayly ther is approued, with other things thereto apper<g ref="char:EOLhyphen"/>tayning: the which be the markes we intend to runne at. By comparyson, they be like the pepper Bathe, besyde the heade of them Rhene (as by <hi>Fuchsius, in Institucionibus,</hi> wée may gather) sauing that the pepper Bathe (sayth <hi>Munste<g ref="char:EOLhyphen"/>rus, in Cosmographia sua</hi>) continueth so longe, as the spryng<g ref="char:EOLhyphen"/>ginge
+<pb facs="tcp:8344:14"/>hearbes, and grasse, doth remayne, in their florishing force, and vertue. But theise, so longe as the matter féedyng them, doe not fayle. And surely, the swéetnes and pleasant<g ref="char:EOLhyphen"/>nes of the water, of the Bath: sheweth some excellent ore: rather then eyther Brimstone, allume, bitumen, iron, cop<g ref="char:EOLhyphen"/>per, or any other such like, for then, it should in drinking be perceyued, by tast. Of all which tastes, looke in my second booke, of Bathes ayde. Albeit trew it is (as affirmeth <hi>Galen de sanit, tuenda</hi>) all such hot Bathes, of such minerals haue force of drying: but in these, you shall find no such sence, but so farye, so pleasaunt, and delectable, that it would séeme, to be a dulce Bathe, made by arte, rather then by nature. How beit the effect declares Brimstone to be therein, and therfore I would haue this of you to be noted,<note place="margin">A matter worth the noting.</note> that salt water throw often straining, vpon fresh sand, is made again swéete, I meane tasteles: and so may other waters of other mine<g ref="char:EOLhyphen"/>ralles also, for the ayry part, being purified from the earth<g ref="char:EOLhyphen"/>ly, in this wise, or by Lymbeck returneth againe, too hys owne nature, and so this may: both for bycause the interne heate, is far distant (as we haue said in another place) and also, the water running from far, through the fayre sandy earth, may be purified from the sent, of the mineralles, and so lose his taste, and yet, not without greate vertues, both manyfest, and hidden, as you may perceyue, by that which is and shalbe said. Séeing we graunt God (<hi>Aristot,</hi> vniuer<g ref="char:EOLhyphen"/>sall nature) hath bestowed vppon vs these Bathes, for our great benefite, if so be that, ther can be nothing (as saith <hi>Ga<g ref="char:EOLhyphen"/>lene de vsu partium</hi>) which better, or more redily, taketh a<g ref="char:EOLhyphen"/>way distemperature, of heate, or cold actiue qualityes, or euacuateth, by the pores, the superfluous humores, then a dulce or pleasunt Bathe: or that also, maintayneth health more: for when as it is, by nature moyst, and moderately hot,<note place="margin">Effectes of the Bathes.</note> by humiditie, it humecteth dryeth, spronge of heate: by heate, it heateth) cold, caused of congeling: by moderate clo<g ref="char:EOLhyphen"/>sing,
+<pb n="4" facs="tcp:8344:14"/>through dryeth, strengthneth the loosed: as by insen<g ref="char:EOLhyphen"/>sible perspiration, it mundifieth al partes, the which thing, is well proued dayly there.</p>
+            <p>Therefore, when the actions or vses of the partes bée depraued, diminished, or quyte abolished (a woorke that shall shortely bée made speake Englishe: for that all men may knowe Gods meruaylous might in their framinge: and to what ende euery part serueth) by any, of the afore<g ref="char:EOLhyphen"/>sayde distemperatures, properly, or accidentally, not mor<g ref="char:EOLhyphen"/>tally: nothing more safely, nothinge more aptly, nothinge more delicately, reduceth them to their olde and pristinate actiuitie: then the dulce, or delectable Bathes, or Welles of Buckstone. For (as <hi>Auicenne</hi> sayeth <hi>in Canon.</hi>) the weake members be aswell strengthened with such medicines, as temperately heate, aboue their naturall propertie, as eased of their griefe, by qualifying the discrasie, in any or all of the partes. And this, it dooth by reason that it rarifyeth, as<g ref="char:EOLhyphen"/>well the partes, prouoketh expiration, and wypeth awaye fylth: as that it firmeth, ioyneth, and consolidateth the loose, weakened and seuered substance, of the simple, or com<g ref="char:EOLhyphen"/>pounde partes, measurably qualifyinge the ouerheated members, and drying, such as bée ouer moyste. Therefore good for all such diseases,<note place="margin">How they be good. vvhat sick<g ref="char:EOLhyphen"/>nesses they cure.</note> as come of ouermuch colde moysture, for chollerique, and salt humore parched, and compacte togy<g ref="char:EOLhyphen"/>ther, by which, wée may gather, that it is good for such.</p>
+            <list>
+               <item>Rheumes.</item>
+               <item>Feuers.</item>
+               <item>Headaches.</item>
+               <item>Weak sinewes.</item>
+               <item>Old scabbes.</item>
+               <item>Ulcers.</item>
+               <item>Crampes.</item>
+               <item>Numnes.</item>
+               <item>Itchinges.</item>
+               <item>Shrinkings.</item>
+               <item>Ryngwormes.</item>
+               <item>Apostemes.</item>
+            </list>
+            <pb facs="tcp:8344:15"/>
+            <p>And for these diseases following, beside many of the gréefs mencioned in my first booke of Bath, which causes and acci<g ref="char:EOLhyphen"/>dents, I wish you to looke there: supposing at the first ex<g ref="char:EOLhyphen"/>ployt, to be sufficient to note here those sicknesses, that may not only probably be coniectured: but also daily proued that those Welles helpe.</p>
+            <p>Women that by reason of ouermuch moisture, or con<g ref="char:EOLhyphen"/>trary distemperature, bée vnapt to conceaue.</p>
+            <p>Also al such as haue their whites too abundant, and that bée ouer watry.</p>
+            <p>Item, weake men that bée vnfrutefull.</p>
+            <p>Likewise for all that haue <hi>Priapismus,</hi> and that bée per<g ref="char:EOLhyphen"/>boyled in <hi>Venus gulf.</hi>
+            </p>
+            <p>Profitable for such as haue the consumption of the Lungs.</p>
+            <p>Beneficiall for such as vomit blood, as hath bin well pro<g ref="char:EOLhyphen"/>ued.</p>
+            <p>Very good for the inflammation of the Liner.</p>
+            <p>Excellent for ouermuch heat, and stopping of the reins.</p>
+            <p>Beneficiall to all such as be disquieted with burning of vrine.</p>
+            <p>Good for the Strangury, and continuall desire to make water.</p>
+            <p>Unordinary desire of going to the stoole, dooing nothing or very little with great payne, it cureth.</p>
+            <p>It stayeth wasting of mans séede, the Hemoroydes, and Pyles, it soone amendeth.</p>
+            <p>Against the ouerflowing of womens monthes, it muth auayleth.</p>
+            <p>It taketh away the Hicket.</p>
+            <p>Ouermuch vomiting it easeth.</p>
+            <p>It openeth the obstructions of the Milt and Liuer.</p>
+            <p>For them that be short winded, it much auaileth.</p>
+            <p>Fluxes of the Milt and Liuer, it maruelously amendeth</p>
+            <pb n="5" facs="tcp:8344:15"/>
+            <p>The gréene sicknesse perfectly it cureth, and the mor<g ref="char:EOLhyphen"/>phewe soone it expelleth.</p>
+            <p>From the stone it safely descenceth: and the healthy people in good state long it preserueth. Now, you that will repayre vnto the Bathes, for any of these infirmities, as also for others not named, and shall happen to come awaye vncured, I would not wishe you, forthwith to exclayme vp<g ref="char:EOLhyphen"/>pon God, and good men: bycause, by and by you were not healed, for some infirmities bée déeplyer rooted in the partes through prolonging of tyme, then that any remedy perhaps will extend to the redresse, as <hi>Amatus Lusitanus, in introitu medico ad aegrotantem,</hi> affirmeth: and therefore myne ad<g ref="char:EOLhyphen"/>uyce is, that such as be so assertayned of the Phisicions, that they thank God, as all godly and wyse men, from the begin<g ref="char:EOLhyphen"/>ning haue done: and let them praye and proue agayne,<note place="margin">prayer best pleseth God and most profiteth man.</note> and not sticke for any payne, cost, or trauayle. For what auay<g ref="char:EOLhyphen"/>leth all the world, and a man to loose his owne lyfe? sayeth Matthewe the Euangelist: or what pleasure, I pray you, hath a man in riches, pessessions, Nobilitie, Soueraintie (worldly vanities) whē as in the world, his own body, is as<g ref="char:EOLhyphen"/>perly assaulted with eatinge vlceres, deuouringe wolues,<note place="margin">Helth the best vvealth</note> sharpe crampes, fretting bowelles, frantique fittes, and a thousand other, intollerable batteries. I thinke surely, then hée had rather be poore <hi>Codrus,</hi> in health, shifting for his porcion, then riche <hi>Mydas,</hi> so afflicted, wallowinge in drosse: whiche wée abusiuely call worldely wealth, when as very wealth, is health. For without health, all richesse is carefulnes, pleasure vnprofitable, company gréeuouse,<note place="margin">The prety knowledge that the bookes of the Bathes of Bathe hath.</note> in brief, all things odiouse. Wherfore take indication of thyne owne constitution, out of my tables in Bathes ayde, What is in them according to nature, what naturall, what not na<g ref="char:EOLhyphen"/>turall, best for thy vse, and how agaynst nature thou art af<g ref="char:EOLhyphen"/>fected, that thou mayst be perfect, to shew Phisicions wherin thou art to request ayde, and not as the blind man, casteth his
+<pb facs="tcp:8344:16"/>staffe, runne to it: but firste know what is in thee, accor<g ref="char:EOLhyphen"/>ding to nature amisse, by them agayne, to be amended: Of which (God bée magnified) there were neuer better, nor greater store in our lande, euen of our owne Nacion, than bée at this day: comparable (I dare saye) both for wysedom learning, and experience, to any in all <hi>Europe.</hi> Althoughe, (I knowe not how) some darnell is crepte in amongest the good corne, to the dishonour of our Creator, to the destructi<g ref="char:EOLhyphen"/>on of our Quéene hir Maiesties Subiectes, and to the great sclaunder of the arte of all other, (as <hi>Montanus</hi> witnesseth <hi>in Anazena morborū</hi>) farre the noblest. Inasmuch as lyfe &amp; health of mans body excelleth all other things in y<seg rend="sup">e</seg> world. But, I will trouble you no longer with such their vanities, for our labor is (if it may be) wholy to your profit, in expre<g ref="char:EOLhyphen"/>ssing a compendious discourse of diet, néedful to be cōsidered.</p>
+            <p>
+               <note place="margin">The great effectes of dyet.</note>Dyete of <hi>Galene</hi> is called, The vse of necessarie cause, <hi>in Epidemijs,</hi> of <hi>Auicenne</hi> good gouernance, and of vs, in our Tables in Bathes ayde, things not naturall, all one in meaning, cunningly handled of <hi>Aetius,</hi> who sayeth:</p>
+            <p>The surest way to the rootinge out of any sicknesse, is Diete. Affirming further, that by Diete long diseases finde most benefyte. The which thing also, <hi>Galene</hi> affirmeth, <hi>c.8. secundum loca,</hi> that distemperature onely, so is not hea<g ref="char:EOLhyphen"/>led, but also many great and gréeuouse sicknesses are by it cured. And therefore I would not wish any other meanes to be sought, where onely good diet dooth serue. The which thing <hi>Plato</hi> affirmeth <hi>in Timaeo,</hi> and after him <hi>Damascenus, in Aphorismis,</hi> and <hi>Arnoldus in parabolis:</hi> vtterly reiectinge such, as of Diete make none account.</p>
+            <p>To the vses of necessarie causes, thrée things are expedi<g ref="char:EOLhyphen"/>ent to be wayed, qualitie, quantitie, and maner of order.</p>
+            <p>Qualitie is shewed by the constitucion of the sicknesse, which in things to be receiued <hi>Hippocrates</hi> hath made plain writing in this manner, <hi>6. Epidemiorum.</hi> In sicknesse there
+<pb n="6" facs="tcp:8344:16"/>must bée a contrarie Diete. Also, <hi>primo Aphorismorum, de<g ref="char:EOLhyphen"/>cimo sexto:</hi> Moyste Diete profyteth all persones troubled with a feuer: and especially children, and such as haue accu<g ref="char:EOLhyphen"/>stomed to lyue so.</p>
+            <p>But before wée procéede any further, it shall not bée vn<g ref="char:EOLhyphen"/>néedfull, to note vnto you, by the way, the tymes of sicknes vniuersall, which be foure: Beginning, Augmenting, state,<note place="margin">Tymes of Sicknesses.</note> and declining, as testifyeth <hi>Galene, libio de morborum tem<g ref="char:EOLhyphen"/>poribus, &amp; primo de Crisibus.</hi>
+            </p>
+            <p>Quantitie, is discryed by the knowledge of the force of constitucion of the sicknesse, of the tyme, of the particular encrease, and of the strength, of the party affected. If so bée, that the full dyete encreseth, strength, the meane preserueth it, and the slenderest deminisheth it.</p>
+            <p>Plentifull, is that which encreaseth the strength of na<g ref="char:EOLhyphen"/>ture, as that which is made of new layd egges, of Phisicall confections, and of such holsome meates, as shalbée hereaf<g ref="char:EOLhyphen"/>ter mencioned.</p>
+            <p>The meane, or that which is neyther plentiful, nor spa<g ref="char:EOLhyphen"/>ring. <hi>Galene</hi> called a temperate Diet, as that which is done by fewe meates and such as bée of small nourishment, as is the iuice of Ptysane.</p>
+            <p>The slenderest is that which is appointed in the tyme of <hi>Crisis,</hi> which is, a soddayne alteration of nature, eyther into better or worse, as <hi>Galen</hi> defineth it <hi>lib. ter. praesagiorum cō<g ref="char:EOLhyphen"/>ment. pri. &amp; lib. secund. aphoris. comment. decimo tercio, &amp; vicesimo tercio: &amp; lib. pri. Epidemiorum, comment. 3.</hi> abstay<g ref="char:EOLhyphen"/>ning altogither, or taking something of least nourishment, as is <hi>Mellicratum.</hi> Therfore, if vertues or strengthes, haue their lawfull powers, and the chiefest force of y<seg rend="sup">e</seg> sicknes looked for of nature, it shalbe lawful to vse a most slēder diet.</p>
+            <p>But if the strength bée weake, it shall not bée conue<g ref="char:EOLhyphen"/>nient, without great hurte, but rather, too adde so muche nourishement, as of the Strength is diminished.</p>
+            <pb facs="tcp:8344:17"/>
+            <p>For, euen as euacuation is made before concoction, the mat<g ref="char:EOLhyphen"/>ter prouoked: so shall nourishement be had in a tyme not v<g ref="char:EOLhyphen"/>sed to eate, to kéepe the strength from vtter fayling, as <hi>A<g ref="char:EOLhyphen"/>uicen</hi> teacheth <hi>primiphen. quarto.</hi> Whereby it commeth to passe, that oftentymes in fittes, meates be giuen. And ther<g ref="char:EOLhyphen"/>fore sometime we must giue nourishment, in the shakinge of the fyt: the which thing, <hi>Galene</hi> testifyeth, <hi>de picrocholis, primo therapentites, 1. apho. com. 9.</hi> And sometyme, in y<seg rend="sup">e</seg> very burning of the fitte, that is when any gréeuouse accident happeneth, dissoluing the strength, nature not aggrauated: for where the powers shalbe decayed, by reason of manyfest empting (as the same <hi>Galen</hi> sheweth,) or because of extreme sweat, dissoluing the strength, or else, by reason of ouerlong abstinence: all these thus affected, require nourishement most spéedily.</p>
+            <p>Contrariewise, they which by reason of gréefe, or bicause of the state of the sicknesse, haue the faculties not stronge, doo néede now and then euacuation rather, then filling: nay hée which giueth meate to such, is cause of great hurt, vntoo them. So much likely it is, that those which bée ignorant in Phisike, can appoynt what meates, or at what tymes, or what qualitie, or quantitie, to the sicke ought to be giuen. Hence it is made euident, that euery sicke persone doth not require nourishement.</p>
+            <p>In euery sharpe sicknes, a most slender dyet is required. In méeker sicknesses, a larger dyete may bée permitted.</p>
+            <p>In cronicke or longe diseases, we doo diminish the dyete, and very many of them, besydes feuers, are rid with a slen<g ref="char:EOLhyphen"/>der dyete, as <hi>Auicenne</hi> testifyeth, <hi>quarti phen. primo.</hi> And therefore in the curing of the frenche poxe, wée finde, the newe Diete is not profitable,<note place="margin">The new dyet profi<g ref="char:EOLhyphen"/>table.</note> as <hi>Nicolaus massa in tractatu<g ref="char:EOLunhyphen"/>suo, de morbo Gallico, Iohannes Aliuenar de hic Hispanica, Benedictus Victorius, de morbo Neapolitano, Vldericus Hut<g ref="char:EOLhyphen"/>tonus, de morbo Gal.</hi> with infinite others, doo testifye.</p>
+            <pb n="7" facs="tcp:8344:17"/>
+            <p>In state of the sicknes, wée muste vse a more slender, dyet, yet first so plentiful, that it may suffice the sick. Wher<g ref="char:EOLhyphen"/>vppon <hi>Aristotle</hi> saith, <hi>Secundi Problemate, quinquagesimo secundo,</hi> in the beginning of the sickenes, it is good to gyue meate. <hi>Celsus,</hi> contrariwise affirmeth, abstinence in the be<g ref="char:EOLhyphen"/>ginning of the sickenes, to bée beste. But truely, the one is ment as (I think) of the time of sicknes vniuersall, and the other particuler, and of this mynd is <hi>Montinus, in compen<g ref="char:EOLhyphen"/>dio facultatis curatoriae.</hi>
+            </p>
+            <p>By panges or fits the quantitie is altered: and in them it shalbée conuenient to abstayn, for it behoueth to giue no<g ref="char:EOLhyphen"/>thing, to them that by cyrcuites haue fittes: except perchance when the fitte doth begin to leaue. For then must meates be geuen, when heate shall come euen vnto the féete. To con<g ref="char:EOLhyphen"/>clude with <hi>Auicen in Quarto phen. pri.</hi> Sometyme wée take away nourishment, often tymes we doo deminish, somtyme we make euen, somtyme we do encrease.</p>
+            <p>It is wholly taken away, when we desire to empty hu<g ref="char:EOLhyphen"/>mores, bycause of disgestion, as in state, and in very sharp sicknesses, and in them that bée of matter. But in leane persons, and such as haue <hi>Hectica Febris,</hi> and that be in con<g ref="char:EOLhyphen"/>sumpcions, it ought to be increased.</p>
+            <p>It is deminished, that the strength may bée by nourish<g ref="char:EOLhyphen"/>ment preserued to thend, that we may prouide for the mat<g ref="char:EOLhyphen"/>ter, neyther ought nature too bée hindred with multitude of ouer much nourishment, as in augmenting, and in acute or sharp sickenesses, and in the cronike or long also, yet lesse then in the sharp. And it is deminished two wayes, for som<g ref="char:EOLhyphen"/>tyme we are compelled to lessen the qualitie, and to en<g ref="char:EOLhyphen"/>crease the quantity, as in <hi>Bolysmus</hi> that doggish appetyte. And often tymes we are constrayned to encrease the quali<g ref="char:EOLhyphen"/>ty, and deminish the quantity, and when wée endeuour too strengthen the body, and the nature of the stomacke is not strong enough, for a fuller diete.</p>
+            <pb facs="tcp:8344:18"/>
+            <p>In the beginninges of sicknes, we do giue an euen dyet, which doth neyther augment, nor deminish the strength of the body. For first we must deale plenteously (as <hi>Galen</hi> wil<g ref="char:EOLhyphen"/>leth <hi>primo ad Glanconem</hi>) that the sicke may suffyce.</p>
+            <p>In declination we do encrease, for it behoueth too make encrease, lyke to the deminishing, which was afore in state. Therfore <hi>Galen</hi> doth teach <hi>Tercio artis paruae,</hi> that the arte which doth refresh, and strengthen, is conuenyent for them that be whole.</p>
+            <p>In sicknesses euen to be disgested, and in strong state, vse abstinence.</p>
+            <p>When the strength is weakned, and the sicknes hard to ouercome. <hi>Galen</hi> commendeth <hi>Pri. ad Glanc,</hi> to vse a lar<g ref="char:EOLhyphen"/>ger dyet</p>
+            <p>The shewing of the manner of vse, is also taken of iiif. thinges afore said. For if the strength shalbe weake, and the disposition be of corruption of humours, or of want of them, wée shall giue the sicke but a little nourishment, a little in deede: bycause his weakenesse, cannot sustaine at once, the whole multitude of nourishment. And often bicause the dis<g ref="char:EOLhyphen"/>position néedeth many thinges: if so be that, wanting dooth néede adding, and corruption clensing.</p>
+            <p>If with weakenes of the vertues or strength, there shal<g ref="char:EOLhyphen"/>bée neyther any wanting, nor any corruption, neyther yet lacke of naturall humoures, but that they shal abound, then we will giue fewe thinges, and seldome, and so much the rather, if the humours shall abound.</p>
+            <p>But if ther shalbe want of humoures, or corruption, and the vertues strong, then we wil giue much meate, and of<g ref="char:EOLhyphen"/>ten, as the disposition may requyre, and nature strong able to disgest it.</p>
+            <p>If the vertues, powers, or strength shalbe strong, with a disposition of the pleurisy, then we wil giue seldome, and litle at once, bycause the preserued state dooth not neede
+<pb n="8" facs="tcp:8344:18"/>much.</p>
+            <p>Furthermore, in Somer tyme, often sew things must be giuen: for that then the body néedeth much adding, as those which be dissolued, through vapoures (as you haue hard) and haue but a weake strength.</p>
+            <p>In the winter season, much may be giuen, by reason the actions be stronger, yet seldome, bycause the sicke doth not néede very much, adding as they to whom, there is not much euacuation made.</p>
+            <p>In the Spring, wée will nourish with fewe things, and that a long tyme: as also in full dispositions, if the powers bée stronge.</p>
+            <p>Haruest or Autumne is likened too disseases which are caused of corruption. Therfore they which therin be sicke of an ague (of all which agues you may looke in my booke, enty<g ref="char:EOLhyphen"/>tuled, <hi>the Diall of Agues:</hi> the faultes wherein, escaped in the print, shal shortly be amended, with further matter) do néed a continual adding of the best nourishemēt, if y<seg rend="sup">e</seg> vertues bée stronge. But if they bée weake, little at once, and often<g ref="char:EOLhyphen"/>times.</p>
+            <p>Lykewyse sayth <hi>Galene, 1. aphoris. commen. decimo septi.</hi> a man maye take indication of ages, custome, region, cli<g ref="char:EOLhyphen"/>mates, &amp;c. reducing them to the twoo first intentes, for the premisses, doo shew the body weak, or stronge: aboundinge, eyther with good humores, or lacking humores sufficient, or depraued with illenes of humors. Of which it is euident, that the force of the strēgth, sometimes (as in diseases which grow throw corruption or want of humors, or else in Au<g ref="char:EOLhyphen"/>tumme) requireth much meate and often: and many tymes litle and seldome, as in sharpe sicknesses. It is also euident (to such as are expert in the Diatique part of phisicke) when meat little, and often, much and often, little and seldome, much and seldome, is conueniently too bée gyuen too the sicke.</p>
+            <pb facs="tcp:8344:19"/>
+            <p>Therefore séeing this arte, of al artes is the chiefest, it is not the least parte of knowledge to appoint diete, as <hi>Ga<g ref="char:EOLhyphen"/>lene vndecimo therap. sept. methodi medendi,</hi> iudgeth: who also commaundeth that wée shoulde appointe one kynde of Dyete, the indications agréeing, but then disagréeing, wée must preferre those which be stronger and most, so that the dyete, which they prescribe, be obserued, and the contrarie neglected.</p>
+            <p>In diseases vncurable, for the better sustayning, of the sicke when hée lyeth, a most light dyete in qualitie, contra<g ref="char:EOLhyphen"/>rie to the infirmitie, and cause must bée prescribed. But by reason of the quantitie, for the onely respecte of the vertue, strength, or appetite, it is appoynted as though no disease were.</p>
+            <p>
+               <note place="margin">Nourish<g ref="char:EOLhyphen"/>ments wher<g ref="char:EOLunhyphen"/>of they spring.</note>Now, all nourishementes, whereof Dyete consisteth, spring of the first commixtion of Elementes, and they bee eyther of séedes, plantes, or liuing thinges. For, as <hi>Ferneli<g ref="char:EOLhyphen"/>us</hi> saith, <hi>libro secundo, de abditis rerum causis:</hi> Nothinge can nourishe vs, which is not itselfe nourished, and endued with lyfe, and these bée. Certayne of these be simple, certayn com<g ref="char:EOLhyphen"/>pound: Some doo woorke in matter, some in qualitie, &amp; mat<g ref="char:EOLhyphen"/>ter, as sayth <hi>Dioscorides, de medica materia.</hi>
+            </p>
+            <p>Of these, the one sorte be simple meates, of meane tem<g ref="char:EOLhyphen"/>perature, endued with no especiall qualitie.</p>
+            <p>The other be mixed, and are called Medicinable: bycause although they nourishe, yet in qualitie they doo alter and chaunge the body of the receyuer. Wherevppon there is of nourishments a double facultie: One by which they alter, the other by which they nourishe.</p>
+            <p>The former is knowen of collour, smell, and taste, and also of those things, which doo excell, applyed outwardly, or receyued inwardly.</p>
+            <p>The latter is knowen by no reason, but by experience onely: bycause the whole nature of the thing nourished, is
+<pb n="9" facs="tcp:8344:19"/>a certein propriety to their substance, of <hi>Galen</hi> called a like<g ref="char:EOLhyphen"/>nes <hi>3. ther.</hi> By which reason nourishment is swéete, and plea<g ref="char:EOLunhyphen"/>sant in taste, and as the familiaritie of them, is by pleasant<g ref="char:EOLhyphen"/>nes perceyued, so is the contrary by vnpleasantnesse tryed, if so be that those things which do differ from nourishment of their whole nature, are vnsauerily eaten.</p>
+            <p>Let ther be saith <hi>Galen. octo therap.</hi> in all sicknesses this foresight in dyet, that the meate be of good iuyce, and of easy digestion, bycause as <hi>Auicenne</hi> sayth <hi>Secund. Phen. quart.</hi> Euery person sick is hurt. Therfore of meates of euil iuyce euyll iuyce is gotten, <hi>Galen</hi> hath made manyfest, <hi>in lib. de Euchymia &amp; Cacochymia,</hi> of how great force it is to engen<g ref="char:EOLhyphen"/>der sicknes.</p>
+            <p>
+               <note place="margin">Meates of strong nou<g ref="char:EOLhyphen"/>rishment.</note>Meates which principally nourish, slowlyest perce, for such bée grosse and flimy, to the end they may stick fast, and not easely to be out breathed by vapour, but such as are hard<g ref="char:EOLunhyphen"/>ly disgested.</p>
+            <p>Contrarily, such as swiftly perce be of subtile parts, brit<g ref="char:EOLhyphen"/>tle of substance, light of digestion, but of litle nourishment: Wherefore swift nutricion, as testifieth <hi>Galen. 3. de causis pulsuum</hi> dayly is not néedefull, as is that which is made by wyne which is hot and moyst. Of this, Hippocrates sayth, <hi>Libr. de alimentis.</hi> To recouer strength as in swooninges: of dyetes the moyste is principall, although yet soner by swel<g ref="char:EOLhyphen"/>ling (as you may find in my iiij. booke of Bathes ayde,) and also in them, whose partes be weake, ouerdryed with infir<g ref="char:EOLhyphen"/>mity, that the nourishment may the better enter and bée drawen into them, of the which nourishmentes, it is hygh tyme that somthing be spoken.</p>
+            <p>Of graynes, of corne, is bred made, the diuersity wherof <hi>Athaenaeus libr. de honesta voluntate, Hermolans in corelario,</hi> haue expressed.</p>
+            <p>
+               <note place="margin">Best bread of wheat.</note>The best bred is that which is made of wheat, well baked somewhat leauend, neyther to new nor to old, for the crased
+<pb facs="tcp:8344:20"/>at al tymes helthiest.</p>
+            <p>But bread of dyuers graines, of diuers formes, in dy<g ref="char:EOLhyphen"/>uers places be vsed. Some countryes make bread of cleane wheate, for the most part, as in Somersette Shyre, Rent, Lincolne, and Norfolke, some of beanes, and pease, as Ley<g ref="char:EOLhyphen"/>cestre Shyre, and in Nothingham Shyre the claye, of which reade Tussard his husbandry. Some of Rye, as in Urchen<g ref="char:EOLhyphen"/>féeld, and in Stafford Shyre, some of Miscelling, or Mun<g ref="char:EOLhyphen"/>corne, as in Worcester shyre, and Sallope. Some of Otes, as in Lanckashyre, Ches shyre, Cumberland, westmerland, and Cornewall. And some of big or winter beare, some of Lentyles, some of Fitches, some of Tares, some of French wheat, most in vse for Rustikes. And into diuers formes these graines may be reduced, some in forme of manchet vsed of the gentility: some of great loues, as is vsual among yoomanry-some betwene both, as with the franklings: some in forme of Cakes, as at weddings: some Rondes of Hogs, as at vpsittings: some Simnels, Cracknels, and Buns, as in the Lent: some in brode cakes, as the oten cakes in Ren<g ref="char:EOLhyphen"/>doll on yrons: some on Slat stones as in the hye peke: some in frying pans, as in Darby Shyre: some betwene yrons, as wafrons: some in round cakes, as Bysket for the Ships. But these and all other the mayne bread of York excelleth, for that it is of the finest floure of the Wheat well tem<g ref="char:EOLhyphen"/>pered, best baked, a patterne, of all other the finest.</p>
+            <p>This largely handled, bycause, the others kindes, some haue preferred before that (which is best) of vs first appoin<g ref="char:EOLhyphen"/>ted.</p>
+            <p>
+               <note place="margin">Thrist defi<g ref="char:EOLhyphen"/>ned.</note>Drink, the remedy of thirst, which is an appetite, of a thing cold and moyst: doth therfore eyther coole as vinegre, or moisten as wine, or worketh both as <hi>Oxicratum,</hi> or cold water (as <hi>Pline</hi> affirmeth, <hi>lib. 28. Cap. 4.</hi>
+            </p>
+            <p>Furthermore, drincke dooth eyther mightle the partes of the meate, or else conueyeth the meat through the whole
+<pb n="10" facs="tcp:8344:20"/>body, as <hi>Ioanicius</hi> teacheth. It is of twoo kyndes, not nou<g ref="char:EOLhyphen"/>rishing as water, nourishing as wine, ale, béere, ptisane,<note place="margin">vvhat drink doth.</note> &amp;c.</p>
+            <p>The measure of drinke, is that which dooth neyther swimme on the stomacke, neyther bring any sense of ouer<g ref="char:EOLhyphen"/>flowing, as testifyeth <hi>Galene, septimo methodi medendi:</hi> vtterly condemning all ryotous quaffing, a vice, nowe too commonly vsed.</p>
+            <p>The best drinke for the crased at Buckstone, is meane Ale, neyther to new, nor to stale, not ouerhepped.</p>
+            <p>Your fleshe shalbée most ordinarie, as followeth,<note place="margin">Meates.</note> mut<g ref="char:EOLhyphen"/>ton, Kyd, Conie, Rabbet, Ueale, Turky, Capon, Henne, Chicken, Phesiant, Partrich, Rayle, Curlyew, Cnotwype, Wodcocke, Snype, or any other clouen footed fowles, Po<g ref="char:EOLhyphen"/>ched egges, or rere rosted is also right nourishinge meates, as is aforesayd.</p>
+            <p>
+               <note place="margin">Some frutes admitted.</note>Fruites, albéeit in most regimentes be forbiddē, of these kyndes may be vsed, Almondes any way dressed, Raceines, Figges, Pomgranates, Quinces, Wardens, and Chest<g ref="char:EOLhyphen"/>nuttes rosted, Ryce, Marmalad, Greene Gynger. So may confortatiues, conserues, or cordial Confections, or to them that haue cold diseases, or bée of a cold constitution. Wynes of these kyndes may bée permitted, as a cuppe of Sacke and Sugar, if the disease doo not forbid it, or of good Gascoyne wyne, to them that be leane, with Sugar, or whyte Ma<g ref="char:EOLhyphen"/>mulsyes of <hi>Madera,</hi> a myas of good Ale, a cawdell,<note place="margin">Kindes of wine tolera<g ref="char:EOLhyphen"/>ble.</note> or Alebu<g ref="char:EOLhyphen"/>ry, althogh afore in the generall dyet I haue not touched it.</p>
+            <p>Moreouer, fishes following may bée permitted, although license be obtained, Trught, Creuis, Breame, Barble, Che<g ref="char:EOLunhyphen"/>uion, Perch, Rotche, Bret, Gurnet, Whyting, Smelt, Cod, Myllers Thombe, Bully head, Loche, &amp;c.</p>
+            <p>
+               <note place="margin">Meales or<g ref="char:EOLhyphen"/>dred.</note>Now for your meates, they wilbe best at x. or xi. a clock, if you can fast so long: if not, take some small refectiō before you go into the Bath, or not long after you come out, if you enter not into your bed, nor receyue any medicine.</p>
+            <pb facs="tcp:8344:21"/>
+            <p>Your houre of supper shalbe about sixe of the clocke: but after I would haue you to vse no meate that night, nor yet drinke, if you can abstayne.</p>
+            <p>Alwayes prouided, first when you come thither, bicause the ayre is farre colder and more sharpe then in any part of the South,<note place="margin">More cloths at Buckston then at Bath.</note> that you bée well clothed: Hauing also good fyre: especially tender persons, and such as haue ben brought vp in the South cities, and they whose pores bée open, albeéeit the ayre there is very wholesome, as that which is pure, in<g ref="char:EOLhyphen"/>fected neyther with exhalacion of standing pooles, &amp; ditches, as is Brynt marsh in Sōmerset shyre, or the Fens in Lin<g ref="char:EOLhyphen"/>coln shyre,<note place="margin">ayre very holsome.</note> or Houldernes in Yorke shyre, neyther with a<g ref="char:EOLhyphen"/>ny pestilent ayre, as were those déepe holes about <hi>Sardis,</hi> and <hi>Hyerapolis,</hi> mencioned of <hi>Galene, secundo de tuenda va<g ref="char:EOLhyphen"/>letudine.</hi> Neyther with such euill ayre as issueth foorth of Lodes, Synckes, Sewers, and draynes, as about the Fléete bridge, Holburne bridge, Towre ditche, and Brydewell, at London, &amp;c. Neyther with such, as commeth of Hempy grounds, as in Holland: neyther with such as come out of great meres, compassed on euery syde, with the hilles, as in diuers partes of Cumbreland: neyther with such as com<g ref="char:EOLhyphen"/>meth of houses fulsomely kept, as in Irelande, slaughter houses, and Shambles. All which ayres bée hurtfull too all ages, as contrarily, that which is pure, as is at Buckstone, is to all most profitable. But the diuersitie of ayre whiche happeneth of dryeth or moysture, heate or cold, it is not of it selfe to all alyke, but to such as bée of the best temperature the best tempered ayre is most holesome. But in those, in whom any abounding qualitie hath soueraingtie, the ayre which is most against that qualitie, is to them most profy<g ref="char:EOLhyphen"/>table, the colde to the hote, the hote to the colde, the moyst to the drye, the dry to the moyst, as it is reason. So much more as the moysture hath excéeded meane, &amp; this to haue vnder<g ref="char:EOLhyphen"/>standed, in this place, bréefly may suffice. For how you may
+<pb n="11" facs="tcp:8344:21"/>defend you from the colde ayre, that enuironeth you there, is with sufficient garmentes &amp; good fyre, as is afore expres<g ref="char:EOLhyphen"/>sed. Furthermore, you maye vse a more large Dyete at Buckstons then at Bathe.</p>
+            <p>But first, wée will somewhat entreate of exercise, which shall take place afore meat:<note place="margin">profitable exercises before meat</note> for so <hi>Hippo.</hi> hath appointed in his <hi>Aphorismes</hi> saying: Labour must goe before meate: al<g ref="char:EOLhyphen"/>so in his vi. Booke <hi>de morbis popularibus,</hi> hée hath these woordes in order, labour, meate, drinke, sléepe, &amp;c. shalbee meane. But, whether labour, moouing, and exercyse bée all one, or doo differ in themselues, shall appeare. Euery moo<g ref="char:EOLhyphen"/>uing truly, shall not bée an exercise,<note place="margin">Vehement and not ve<g ref="char:EOLhyphen"/>hement ex<g ref="char:EOLhyphen"/>ercyse. Exercises definid.</note> but that whiche is ve<g ref="char:EOLhyphen"/>hement, and that which in some is vehement, may in other be thought to be but an exercyse: to y<seg rend="sup">e</seg> other some not. Ther<g ref="char:EOLhyphen"/>fore, the ende of this vehement, shalbe alteration of breath: séeing in whom there is no alteration of breath, it is not to be called an exercyse. The which thing <hi>Galene</hi> testifyeth, <hi>li<g ref="char:EOLhyphen"/>bro secundo, de sanitate tuenda.</hi>
+            </p>
+            <p>Vtilitie of exercyses is double: one to the euacuation of excrementes: the other, to the conseruacion of the state of the body. For of vehement moouing, thrée things are obtay<g ref="char:EOLhyphen"/>ned: Hardnes of the parts through dayly exercise: Encrease of naturall heate, and a Swift moouing of the breath.</p>
+            <p>By hardnes of the partes, they be losse affected with la<g ref="char:EOLhyphen"/>bour. By encrease of heat, not onely mighty attraction, is caused in the body, but also a spéedier alteracion, a better nutricion, and a perfecter distribucion into all the partes. By benefyte wherof the solide partes be kept softe, and the moyst be thynned, and the small wayes of the whole body, be made more loose.</p>
+            <p>But of the more vehement force, of the breath, followeth necessarily, all the meaptes to be clenzed. Nowe, if exercise woork this, with very many more, as the clensinge of the excrementes of all the bodye, at large expressed of <hi>Galene</hi>
+               <pb facs="tcp:8344:22"/>in his workes <hi>de sanitate tuenda.</hi> It shall not be vnprofi<g ref="char:EOLhyphen"/>table to appoint the tyme and measure of it. And bicause it helpeth disgestion, it ought not bée vsed, when multitude of raw meate is conteyned in the vessels, least it might bring great daunger vnto the state of good health, and further en<g ref="char:EOLhyphen"/>crease the gréefes of the sicke, by augmenting of iuyce be<g ref="char:EOLhyphen"/>fore it were (as is sayd) altered perfectly. So that the exer<g ref="char:EOLhyphen"/>cise is best which is before meat: if so be that y<seg rend="sup">e</seg> bodyes which be vnpure, and vnpurged of commune excrementes, the more you nourish them, the more you hurt them: Of this, I suppose it is euident, that the time for exercise is best, when the last days meat is disgested with a double concoction, as<g ref="char:EOLhyphen"/>well that which is in the stomacke, as that whiche is in the vessels of bloode: for then the tyme of meat, agayne draweth nye: and if you vse exercise sooner, or later, you shall eyther fill the body with rawe humoures, or encrease pale chol<g ref="char:EOLhyphen"/>ler.</p>
+            <p>When you shal beginne any exercise, your bryne, state, or water may serue for a good note.<note place="margin">A rule to know when exercyse shuld begin</note> For if it bée (sayeth <hi>Ga<g ref="char:EOLhyphen"/>lene 2. de tuenda sanit.</hi>) like cleare runninge water, it shall shew the iuyce yet to be rawe. But if it be higher, then am<g ref="char:EOLhyphen"/>bre or betwene it and iacincte, yellowish or chollerique red, it shall shewe the iuyce to bée digested longe before, sayeth <hi>Aegidius, de iudicijs vrinarum.</hi> That which is yellowish, or pale, sheweth the second concoction to bée finished, as sayeth <hi>Actuarius, in lib. de vrinis.</hi> But if the vrine shall not be mix<g ref="char:EOLhyphen"/>ed with chollour (as is aforesayde) it shall séeme watery, thinne, and cléere. But if it shall haue receyued more of the chollorique substance, then enough, it shall appeare red say<g ref="char:EOLhyphen"/>eth <hi>Montanus, lib. de vtlnarum iudiciis.</hi> Wherefore when it is méenely redde, or méenely yellow, then is exercyse too bée vsed: but the excrementes first expelled, aswell ordure, as vryne: for so <hi>Galene secund. de sanitat. tuend.</hi> willeth.</p>
+            <pb n="12" facs="tcp:8344:22"/>
+            <p>To the sickly, small exercyse will serue, by reason of féeblenesse, not able too suffer pantynge, neyther verily so violent for them shalbée requysite. But if their strength will sustayne it, an exercyse conuenient for theyr callinge, shalbée vsed.</p>
+            <p>
+               <note place="margin">Trol in Madam.</note>The Ladyes, Gentle Woomen, Wyues, and Maydes, maye in one of the Galleries walke: and if the weather bée not aggréeable too theire expectacion, they may haue in the ende of a Benche, eleuen holes made, intoo the which to trowle pummetes, or Bowles of leade, bigge, little, or meane, or also, of Copper, Tynne, Woode, eyther vyo<g ref="char:EOLhyphen"/>lent, or softe, after their owne discretion, the pastyme Troule in Madame is termed.</p>
+            <p>Lykewyse, men féeble, the same may also practise, in another Gallery, of the newe buyldinges, and this, dooth not only strengthen the stomack, and vpper parts aboue the mydryfe, or wast: but also the middle partes beneath the sharp Gristle and the extreme partes, as the handes, and legges, according to the wayght of the thing trouled, fast, soft or meane.</p>
+            <p>In lyke manner, bowling in allayes, the weather con<g ref="char:EOLhyphen"/>uenient, and the bowles fitte to suche game,<note place="margin">Bowling.</note> as eyther in playne or longe allayes, or in suche as haue Cranckes with halfe bowles, whiche is the fyner and gentler exer<g ref="char:EOLhyphen"/>cise.</p>
+            <p>Shootinge at Garden Buttes, too them whome it agréeth and pleaseth,<note place="margin">Shoting the noblest ex<g ref="char:EOLhyphen"/>ercyse.</note> in place of Noblest exercyse stan<g ref="char:EOLhyphen"/>deth, and that rather wyth longe Bowe, than wyth Tyller, Stone bowe, or Crosse bowe. Albéeit, to them that otherwyse can not, by reason of gréefe, féeblenesse, or lacke of vse, they may bée allowed.</p>
+            <pb facs="tcp:8344:23"/>
+            <p>This practise of all other the manlyest, leaueth no part of the body vnexercised, the brest, backe, reynes, wast, and armes, withdrawing the thyghes, and legges, with run<g ref="char:EOLhyphen"/>ning or going.</p>
+            <p>
+               <note place="margin">wind ball or yarne ball</note>The wind baule, or yarne ball, betwene thrée or foure, shall not bée invtile to be vsed, in a place conuenient, eache kéeping their limite. For tossinge, wherein may bée a very profitable exercise, bycause at all tymes, they kéepe not the lyke force in stryking, so that they shalbée constrayned too vse more violent stretching, with swifter moouinge at one tyme, than another, which will make the exercise more nymble, and deliuer, both of hand and whole body: there<g ref="char:EOLhyphen"/>fore encreasing of heat, through swift moouing in all partes the sooner.</p>
+            <p>
+               <note place="margin">Plumbes or vveightes.</note>Plumbetes, of <hi>Galene</hi> termed <hi>alteres,</hi> one borne in eche hand, vp and downe the stayers, galeries, or chambers, ac<g ref="char:EOLhyphen"/>cording to your strength, maye bée a good and profitable ex<g ref="char:EOLhyphen"/>ercise: so may you vse wayghtes in lyke maner.</p>
+            <p>A fyne Hallyer or Bowe lyne, a soote or twoo hyer then a man may reache,<note place="margin">Bow lyne,</note> fastened in length, some way, shall not bée vnprofitable, holden by the handes, thereby to stretche them: very excellent aswell for stretchinge of the mydrife, interne panicles and wast, with all the rest of the partes, as also, to preserue and defend them from apostemes, ob<g ref="char:EOLhyphen"/>structions, and paynes thereto incident.</p>
+            <p>These exercyse of your owne power, I thinke, for thys place sufficient. Nowe, wée will shewe howe they may bée profitable vnto you thorow others mouing, aswell by wag<g ref="char:EOLhyphen"/>gon, charriet, horselitter, and ryding, as by Cradle, and Chayor hanged, in sorte as to that vse may be best framed, all very profitable, as they may bée exercised: much, little, or meane, close, or open in the ayre, as to the parties shall bée requisite: taking tyme likewise in the vsing, swift, slowe, or meane, longe, short, or meane. And so likewyse in roc<g ref="char:EOLhyphen"/>king
+<pb n="13" facs="tcp:8344:23"/>by vice, or engyne: or on the floure which is more sha<g ref="char:EOLhyphen"/>king. And therfore to them that may suffer it, more profita<g ref="char:EOLhyphen"/>ble.</p>
+            <p>The other good, to weaker persons, as that in frame, con<g ref="char:EOLunhyphen"/>ueyed by pendent, from one to another, standing a sunder, according to the length of the engyne, thrée or iiij. fedome, drawen from them to the other, swift, slow, or meane, long, short or mean, as to the party shalbe conuenient. Omitting other deuises, to oportunity, and Phisitions further discre<g ref="char:EOLhyphen"/>sion, as to their owne patients, shalbe necessary, and decent. At large entreated, of <hi>Galen</hi> in his arte of mainteyning health, from the tender age of Infantes, vntill they become old men, liuing all their lyfe, in health, vntill their last age, and then dye without paine, whither you may resort, for your further contentacion, séeing our scope is, but of the benefite of bathing.</p>
+            <p>Before you enter the Bath, tary two or thrée dayes, as<g ref="char:EOLhyphen"/>well for resting of you, after your long trauayle,<note place="margin">Rest before bathing.</note> as also to acquaint you with the ayer, vsing some melody, the which thing <hi>Aesculapius</hi> worthily appointed, saith <hi>Galen,</hi> &amp; in déed it refresheth the witte, encreaseth strength, and melancholy it putteth to flight.</p>
+            <p>Times of bathing, shalbe both morning and euening, but after your exercyse, and purging, and altogyther,<note place="margin">Bathing times best.</note> before meat. And that when the Sonne is of a good hight, the mis<g ref="char:EOLhyphen"/>ty exhallations, being into the second heauen attracted, the wether fayre, and in the somer season, as betwéene the bée<g ref="char:EOLhyphen"/>ginning of May, &amp; the later end of September. Saying the praier in the later end of this booke, on your knées, either in the appointed places, or in your chamber, or on the Bathes side. But in pestilent seasons must vtterly be auoyded all Bathes <hi>Georgius Agricola Libro de peste, et Rasa Libro de peste.</hi>
+            </p>
+            <p>In the hath you may tary ij. or. iij. houres, if you please,
+<pb facs="tcp:8344:24"/>and in especiall if the cause, sicknesse, or gréefe requyre, and the body fit for it.</p>
+            <p>After you come forth, your clothes well ayred, your bo<g ref="char:EOLhyphen"/>dy well dryed, and especially your head, if the disease shall requyre,<note place="margin">Bladders full of warm water.</note> into your bed with two bladers full of the water, made hote on the fyre, the one apply vnder the arme holes, &amp; the other in the twyste, and there sweate, as your strength will beare.</p>
+            <p>This done, drie your body ageyne, and rubbe it all o<g ref="char:EOLhyphen"/>uer, as the infirmitie may requyre. Howbéeit not in euery one, vntyll the skynne be redde, but if such frycacion bée ap<g ref="char:EOLhyphen"/>pointed, kéepe your bedde for two or thrée houres after, lest the small meaptes being opened, a soddaine alteracion may happen, of nature altogyther abhorred.</p>
+            <p>
+               <note place="margin">Force of fri<g ref="char:EOLhyphen"/>cation.</note>Fricacion hath force too loose, to binde, too encrease fleshe, and to diminishe it, sayeth <hi>Hippocrat.</hi> That is, the hard to bynde, the soft to loose, the much too diminshe, the meane to encrease fleshe. Howbeit, as may séeme, in <hi>Ga<g ref="char:EOLhyphen"/>lene</hi> his tyme, diuers Gymnastickes inuentinge other in<g ref="char:EOLhyphen"/>numerable differences of frications, wan great prayse: in so much that they were supposed, to haue founde out, con<g ref="char:EOLhyphen"/>cerning frycacions, more then <hi>Hippoc.</hi> himselfe, amongest whome then a Prince of the Gymnastyckes, wrote, <hi>in Gymnasticis, de differencijs frictionum,</hi> in this wyse: Amongest our preceptes of Frycacion, it séemeth good vnto vs, that the Qualities bée ioyned with the Quantitie.</p>
+            <p>For of them selues, they bée so vnperfecte, that no abso<g ref="char:EOLhyphen"/>lute effect, or successe, can procéede of them: bycause softe Frycacion for the Quantitie, néedeth a thréefolde opera<g ref="char:EOLhyphen"/>tion. For, little dooth lightly make the sleshe slacke, and softe to bée handled.</p>
+            <p>Much dooth euaporate and dissolue: meane dooth fill with a loose, and flowing flesh. Lykewyse the harde, according
+<pb n="14" facs="tcp:8344:24"/>to the manner of the Quantitie, dooth yéelde so manye ef<g ref="char:EOLhyphen"/>fectes in number. For much dooth bynde the bodyes, and leaueth behynde something lyke to a <hi>Timon.</hi>
+            </p>
+            <p>The meane dooth fill with fleshe, and the small dooth for the tyme, bringe rednesse in the ouer parte of the skynne. In which processe of woordes, hée contayneth sixe diffe<g ref="char:EOLhyphen"/>rences of Frycacion, thereby supposed, too haue spoken better, and more plentifully of Fricacion, then <hi>Hippocrat.</hi> himselfe.</p>
+            <p>But if more seriousely you ponder the woordes of <hi>Hip<g ref="char:EOLhyphen"/>pocrat.</hi> and not by the way (as a dogge dooth water) lightly taste of them, you shall easely fynde, that hée hath com<g ref="char:EOLhyphen"/>prehende nyne differences, as maye appeare by this de<g ref="char:EOLhyphen"/>scription.</p>
+            <list>
+               <item>Hard.
+<list>
+                     <item>Little.</item>
+                     <item>Much.</item>
+                     <item>Meane.</item>
+                  </list>
+               </item>
+               <item>Soft.
+<list>
+                     <item>Little.</item>
+                     <item>Much.</item>
+                     <item>Meane.</item>
+                  </list>
+               </item>
+               <item>Meane.
+<list>
+                     <item>Little.</item>
+                     <item>Much.</item>
+                     <item>Meane.</item>
+                  </list>
+               </item>
+            </list>
+            <p>
+               <seg rend="decorInit">W</seg>HEN <hi>Theion</hi> had taught the firste sixe of these nyne coniugacions, which the description comprehendeth: Hée made no mencion at all of the other thrée, combating cruelly with him selfe: for if ther be a certayn middle, of the smal &amp; great, which we cal mean, ther shal also be another middle
+<pb facs="tcp:8344:25"/>of the soft and hard, which wée will call meane, and mode<g ref="char:EOLhyphen"/>rate. But, such Sophisticall cauillacions, in this woorke, we haue not determined to reproue, but rather howe health at Buckstone, is to be obtayned.</p>
+            <p>Medicines possessing power of euacuating, for the health of the costyfe, and of them that abound with corrupcion, a<g ref="char:EOLhyphen"/>boue all exercises haue dominion: which in our fourth booke of Bathes ayde, more largely wée haue handled, here altoo<g ref="char:EOLhyphen"/>gyther not to be omitted, (that in the absence of Phisicions may bée vsed) regarde had to the constitucion of the bodye, manner of sicknes, and present state: remembring this al<g ref="char:EOLhyphen"/>so, that doses or qualities of medicines,<note place="margin">great regard to be had in the dosis of medicines.</note> are varyed, accor<g ref="char:EOLhyphen"/>ding to complexion, case, tyme, age, region, nature, sicknes, dyete, arte, and tymes mutacion, as affirmeth <hi>Auicenne in Canon.</hi> and <hi>Amatus Lusitanus, centuria prima.</hi>
+            </p>
+            <p>Therefore, not possible to appoint a iust quantitie, these thinges, in euery person not considered: and bycause you are there in a colder climate, then is Bathe (as I haue sayde) you must make your Dose the greater, for the North per<g ref="char:EOLhyphen"/>sons require a greater and stronger force, to alter their na<g ref="char:EOLhyphen"/>ture, then the Southerne, for that theire bodyes bée more hard, by meanes whereof the naturall actions bée stronger, and will turne the medicine into nourishement. And wée call, all that a medicine, which hath power to alter nature, sayeth <hi>Montanus, commentario primo, de simplicium medi<g ref="char:EOLhyphen"/>camentorum qualitatibus.</hi> For otherwyse it is not a medy<g ref="char:EOLhyphen"/>cine, but meat. Howbeit, <hi>Galene</hi> sayth, <hi>libro quinto, de sim.</hi> It maketh such iuyce, or humor, as it should haue expelled: so that it encreaseth rather sicknesse, then auoyde the cause. It shalbée good therefore, if you meane to vse them, a little to augmente the qualitie, as a fourth or fifth parte more, which will sufficiently tharpen them, as I haue often proo<g ref="char:EOLhyphen"/>ued. Howbeit, I had rather you should conferre wyth the learned, concerning the vse of my medicines, then vppon
+<pb n="15" facs="tcp:8344:25"/>your owne skill receyue them, and yet all that I haue pre<g ref="char:EOLhyphen"/>scribed, bée voyde of venyme, and will not hurt, if they pro<g ref="char:EOLhyphen"/>fyt not. But if they hée receyued according to my meaning,<note place="margin">take no me<g ref="char:EOLhyphen"/>dicin with<g ref="char:EOLhyphen"/>out good ad<g ref="char:EOLunhyphen"/>uise.</note> they bée not onely of noble operation, but also of gentle force of purging. And purgacion, sayeth <hi>Galene, Comm. sec. pri<g ref="char:EOLhyphen"/>mo Apho.</hi> is euacuation of humours, which doo molest with their qualitie. But purgacion is not onely gyuen, bycause of euill humoures abounding, but also by reason of the force of the sicknesse, and sometyme if supplyeth blood letting. For if the party bée weake, a gentle purge wil better serue, as may appeare, <hi>4. therapentices, &amp; quart. det. san. libris Ga<g ref="char:EOLhyphen"/>leni:</hi> for blood is the treasure of lyfe, not viciated.</p>
+            <p>Purgacion, according to <hi>Hippocrat.</hi> is a clensing which by nature or artificially by arte is made.<note place="margin">Purgataons defined.</note> Also there is a gentle purgacion, which euacuateth from all partes, and an other from the place onely affected, and this is eyther vni<g ref="char:EOLhyphen"/>uersall, or particular, as <hi>Gentilis</hi> declareth, <hi>1.3.</hi>
+            </p>
+            <p>The former of the whole body, but especially from the place suffering, the other from it onely.<note place="margin">generall and perticular purging.</note>
+               <hi>Mesue</hi> calleth it an vniuersall purgacion, <hi>cap. de soda. Summa tercia, de medici<g ref="char:EOLhyphen"/>nis aegritudinum cerebri,</hi> which euacuateth the matter, cause of gréefe, from the community of all, or of the most famouse partes, or of them which bée as it were myneralles, as the Lyuer of blood, the Galle of choller, stomacke of phleme, the mylte of splene of melancholly, or blacke choller. And par<g ref="char:EOLhyphen"/>ticular hée calleth that, which bringeth matter, cluddered, lomped, or bagged, in any principall member, or parte: by the proper emunctuaries, as out of the head, by the nose, mouth, eares, eyes, palate, &amp;c. But this particulare maye not bée preferred before the vniuersall, except it bée in fow<g ref="char:EOLhyphen"/>er cases, as either bycause the matter doth not much abound in quantitie, wherefore it may suffise, if it be brought from a parte of the emunctuaries of that member, in whiche the sicknesse is, or else, bycause the part from whence the mat<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:8344:26"/>is deriued is not strong in deliuering it, <q rend="inline">nor the part re<g ref="char:EOLhyphen"/>ceyuing is not strong in resisting, or els bycause that part doth not receyue the community from the rest of the parts, or els bycause the body and other members are not fet vn<g ref="char:EOLhyphen"/>der the Dominion of the matter, which causeth the dysease in that member.</q>
+            </p>
+            <p>Lykewyse ther is one purgation drawing backward, and another foreward, the former turneth to the contrary, the other asyde, as sayth <hi>Hippoc. Libro de Succis.</hi> and <hi>Galen. 4. Therali. de Vlceribus.</hi> Hence it is apparent, that purgaci<g ref="char:EOLhyphen"/>on of the belly, profiteth the most sorte greued with vlcers, as the same <hi>Hippoc</hi> affirmeth, ther is also one kynd of pur<g ref="char:EOLhyphen"/>gacion, that diminisheth, another that perfectly euacuateth all: The former diminisheth the sickenes, the later, wholly rooteth it out, and this is of twoo sortes, for eyther by one meanes, or other, it expelleth the filthy excrementes or else it diminisheth the fumity or iuyce hurtfull, as <hi>Conciliator</hi> saith <hi>Differencia, 116.</hi> and this is strong, weake, or meane, as which is caused of a laxatiue, strong, weake, or meane. Likewise some purgacion at once, worketh effectually, out of al the partes, and some by distaunce of tyme, or little and little. This maner <hi>Tralianus</hi> vseth in headaches, and ioynt<g ref="char:EOLhyphen"/>aches, <hi>Mesue</hi> for melancholique humours, <hi>Auenzoar</hi> in long disseases, <hi>Auicennas in</hi> quotidian agues.</p>
+            <p>
+               <note place="margin">Corrupt hu<g ref="char:EOLunhyphen"/>mores wea<g ref="char:EOLhyphen"/>keneth the strength.</note>Therefore where through humoures corrupted, the lyfe, strength, force, power, or vertue is weake, <hi>Galen</hi> willeth to vacuat, clense, or empty, that which is euill, by little &amp; little, &amp; to reserue in order, that which is holsome, with curation, of hurtefull or vicious iuyce, of the Gréekes is called <hi>epikrasis,</hi> saith <hi>Galen nono therap.</hi> And <hi>Sirmesinos, Hippo.</hi> calleth meane emptings. <hi>libr. de artiensis,</hi> whether they be, by vomit or by stoole.</p>
+            <p>Likewyse we vse some purgatiō cuartiue, or healing, and to preuent a myschéeie suspected.</p>
+            <pb n="16" facs="tcp:8344:26"/>
+            <p>Differences of purgation, or clensing, are taken of the places by the which they are expelled, whether downward by stoole, or vpward by vomit, or by vrine, mouthes, sweat,<note place="margin">Difference of purging.</note> spitting, and snot, lewsing of the belly, draweth down from the vpper partes, and rooteth out from the lower partes.</p>
+            <p>Vomit bringeth to passe by contrary meanes, drawing, and emptyng.</p>
+            <p>Vryne clenzeth the superfluities which are contayned in the veynes, in the bunchy part of the Liuer, reynes, wayes of vrine &amp; bladder: and sometyme those which are without the mydryfe. For <hi>Galen</hi> did sée the vomit of the lungers by v<g ref="char:EOLhyphen"/>ryne to be clenzed, and of the stomake, by the bowels: sweat clenzeth from all partes. Spitle onely with coughe, clenzeth that which is in the loose spaces of the brest.</p>
+            <p>Snot purgeth those superfluities, which are in y<seg rend="sup">e</seg> head.</p>
+            <p>The Canons and rules which it behoueth vs to obserue, shalbe to leade that way whyther nature especially doth en<g ref="char:EOLhyphen"/>cline, in the sommer vpward, in the winter downward, as <hi>Hippo.</hi> commaundeth, <hi>Aphorismo quarto,</hi> and <hi>Gal. 1. ap. 21.</hi>
+            </p>
+            <p>Wée purge leane persons and such as can easely vomyt, by the vpper wayes, auoyding winter. But in the Spring, Sommer, and Haruest, such as hardly vomyte, and bée of a leane constitution, purge downward, eschewing Sōmer.</p>
+            <p>Such as haue the consumpcions of the Lunges, haue re<g ref="char:EOLhyphen"/>gard how ye purge vpward for feare of weakening the spi<g ref="char:EOLhyphen"/>rituall partes.</p>
+            <p>Such as haue the bottome of the belly thynne, weake bowels, or be bursten, take héed how yée purge downward, for it is daungerous.</p>
+            <p>Melancholique persons you may more safely purge by the lower wayes.</p>
+            <p>It is euill to purge much, such as haue the sluxe lyentery, (slyding away of the meate vndigested) by the vpper partes in sommer.</p>
+            <pb facs="tcp:8344:27"/>
+            <p>
+               <note place="margin">Sicknesses for lacke of purging.</note>Gréefe about the hartstringes, signifyeth lacke of pur<g ref="char:EOLhyphen"/>gacion, by the vpper partes, and such as molest the nether partes downwarde.</p>
+            <p>If belly akynge shall chaunce to him that hath not a fe<g ref="char:EOLhyphen"/>uer, heauinesse of the knéees, gréefe of the loynes, &amp; thyghs, it sheweth that they ought to be purged downward.</p>
+            <p>To conclude, euacuacion of the particular members, is made by Indication, taken of situacion, as <hi>Galene</hi> hath plenteously declared, <hi>tercio art. paruae. 2. ad Glanconem, sep. vnde. &amp; tricesimo therapentices.</hi>
+            </p>
+            <p>
+               <note place="margin">vvhat sicke<g ref="char:EOLhyphen"/>nesses pur<g ref="char:EOLhyphen"/>ging cureth.</note>
+               <hi>Galene, lib. de vi catarthica,</hi> affirmeth, that hée abated the tercian feuer melanchollique passions, frantique fittes, fal<g ref="char:EOLhyphen"/>ling sicknesses, continuall headaches, paynes of ioyntes, goutes, and healed the sciatica, scauld heades, frettinge vl<g ref="char:EOLhyphen"/>ceres, wolues in the brest, and many daungerous pustles, of euill coloure, newe lepryes, cankers, and one whom, as hée had ben bored thorow the guttes (which by other Phisi<g ref="char:EOLhyphen"/>cions vnexpert handling thrée monethes, waxed woorse and woorse) with onely purgacion hée restored too health. Hée tooke away by purgacion, a womans fluxe, and other disea<g ref="char:EOLhyphen"/>ses of the matrice, and also dymnes of syght, <hi>opthalmia,</hi> the aposteme of the eye, by purgacion hée also cured in one day.</p>
+            <p>Therefore, purgacion hath ben gyuen accustomably, to staye booth distillations, and ouerflowinges. Hence it is, that <hi>Aetius lib. tercio,</hi> appoynteth it to bée vsed in certayne flixes, of the belly. All which effectes shewe, of what force purgacion is, learnedly gyuen: howsoeuer fooles doo abuse it, or disprayse it.</p>
+            <p>
+               <note place="margin">Meete times to purge.</note>Tymes méete to purge, <hi>Hippo. 6. aph.</hi> taketh of the temperature, of the ayre enuironing vs. For as the ayre is altered so must your purgacion: and what ayre is at Buck<g ref="char:EOLhyphen"/>stone, and howe your purgacion must bée altered, wée haue already expressed.</p>
+            <pb n="17" facs="tcp:8344:27"/>
+            <p>To whom soeuer (sayeth hée) letting of blood, is conueni<g ref="char:EOLhyphen"/>ent, or purgacion, the Spring is best, <hi>quarto Apho. quint. &amp; sext.</hi>
+            </p>
+            <p>Contrarywyse, in the dogge dayes, and before the dogge dayes, purging medicines be daungerous.</p>
+            <p>Moreouer, in the Sommer, wée gyue vometes, choller abounding in the stomacke. Contrarywyse, <hi>Celsus</hi> appoin<g ref="char:EOLhyphen"/>teth it in the winter, bycause the stomacke then is loden with fleme, <hi>lib. primo.</hi>
+            </p>
+            <p>
+               <hi>Galene</hi> did purge in the ende of the Spring, those which in Sommer were taken with a tercian feuer: and in the be<g ref="char:EOLhyphen"/>ginning of the Spring, those which thorowe grosenesse of humoures dyd fall into sicknesse, <hi>lib. de pur.</hi>
+            </p>
+            <p>
+               <note place="margin">VVhen to purge acco<g ref="char:EOLunhyphen"/>ding to the Astrono<g ref="char:EOLhyphen"/>mers.</note>Furthermore, tymes fitte for purgacion, maye bée ta<g ref="char:EOLhyphen"/>ken of the influence of the Planetes, sayeth <hi>Hippo. libr. de diera.</hi> And <hi>Galene</hi> did choose the space betwéene the newe moone and the old, for drinking of Triacle, <hi>libr. de theriace, ad Pamphilium.</hi>
+            </p>
+            <p>It is conuenient, that in gyuing purgacion, it bée obser<g ref="char:EOLhyphen"/>serued, which thing <hi>Aetius lib. 3. &amp; 1. th. and Halyabbas</hi> com<g ref="char:EOLhyphen"/>maundeth. If so bée, that the force of medicines purginge, is dulled, when the moone shall bée ioyned with <hi>Iupiter,</hi> if wée beléeue <hi>Ptolome, in centiloq.</hi> But purginge medicines must bée gyuen when the moone is in a watery triplicity, hauing none aspect, commixtion, quadrature, or opposici<g ref="char:EOLhyphen"/>on, with <hi>Saturne, Iupiter,</hi> or <hi>Mars.</hi> Cōcerning the which aske Councell of <hi>Ioannes de Monte regio,</hi> and the other Astro<g ref="char:EOLhyphen"/>logians, but especially of <hi>Auicennes medicorum,</hi> and also of Almanackes, yearely made. <hi>Auerhois</hi> commendeth those which, although they bée whole, are purged euery seuenth yeare. And I commend those that be purged euery Spring, and fall, séeing seldome but at certayne tymes and circu<g ref="char:EOLhyphen"/>ites, diseases doo happen, or not farre from them. But with <hi>Auenzoar</hi> the election of tyme according too the Astrono<g ref="char:EOLhyphen"/>mers
+<pb facs="tcp:8344:28"/>is not allowed, <hi>lib. secundi.</hi> Perhaps bicause y<seg rend="sup">e</seg> sick may perish while we abyde theyr elections.</p>
+            <p>Lastly of the preparation, of the body, and alteration of the humours, times of purgation, are to be receyued. For as <hi>Hippo.</hi> writeth, before the drinking of <hi>Elleborus</hi> (bearfoote) the body must be moystened, with much meat &amp; rest. <hi>6. epi.</hi> Further he saith, if you wil quikly purge him, y<seg rend="sup">t</seg> hath dronkē <hi>Eleborus,</hi> it behoueth. that he washe, and eate: to washe the day before the receyuing of the purging medicyne, for la<g ref="char:EOLhyphen"/>uing, bathing in swéete water, or washing, spreadeth abrode the humoures, and maketh the body more laxatiue and soft. And to eate such meates, as thinne, cut and seperate grosse, clamy and tough humours, and that do open the passages.</p>
+            <p>Again hée saith, bodies which shuld be purged, ought to be made flowing:<note place="margin">Prepara<g ref="char:EOLhyphen"/>tures before purgations.</note> &amp; thei ar made flowing, as <hi>Ga.</hi> testifieth <hi>3. ap. 9.</hi> By extenuating, &amp; cutting of humoures, &amp; by opening the wayes, by which y<seg rend="sup">e</seg> humours are drawē of the medicine. And when this is neglected, be sure purgations be hard and gre<g ref="char:EOLhyphen"/>uous, wherfore <hi>Auicenne</hi> dooth preferre thinning of the hu<g ref="char:EOLhyphen"/>mour, and dylatation of the wayes that he shut, not only be<g ref="char:EOLhyphen"/>fore purgation downeward, but also before vomite. <hi>Phe. 4.1</hi>
+            </p>
+            <p>Hence it is, that preparatiues are vsed. Therfore to heale thinges disgested, and to moue thinges not raw, so that they enforce not (and the most sort do not compell) to be vttered, for the expulsion of raw humours, as <hi>Galen</hi> writeth <hi>primo apho. 22.</hi> doth cause ache of the belly, gnawing, &amp; swoonings, and also, that nothing in effect worth the accompt, is expel<g ref="char:EOLhyphen"/>led, séeing all raw humours be slow, and vnméete for mo<g ref="char:EOLhyphen"/>uings, by reason of rawnesse and colde, wherby it commeth to passe, that they also do scop all narow passages, by which the medicine ought to bée conueyed, and deliuered, therfore they be neyther brought out themselues, nor suffer other, as sayeth <hi>Auicen quarto, et Phen primo.</hi> Hence it is, that all long sicknesses grow.</p>
+            <pb n="18" facs="tcp:8344:28"/>
+            <p>
+               <hi>Auicenne</hi> after conconction, before euacuation giueth things thinning.</p>
+            <p>Furthermore, coction must be loked first: especially in grosse, tough, and slimy humours, as <hi>Aetius</hi> teacheth <hi>Libro tercio.</hi> And in certayne chollerique infirmities, of thicke, and tough matter, as it is apparant with <hi>Galen,</hi> of the pur<g ref="char:EOLhyphen"/>gacion giuen for the yelow Iaundis, <hi>Libro devi Catarthi<g ref="char:EOLhyphen"/>ca, et de constitucione artis Medicae.</hi> The which thing, also <hi>Tralianus</hi> doth vse, and against <hi>Rasis</hi> and <hi>Auicenne,</hi> but not likewise, for the whayey, thinne, and subtyle humoures, which as it séemeth too <hi>Aetius,</hi> are too bée purged foorth<g ref="char:EOLhyphen"/>with, in the beginning of the sicknesse.</p>
+            <p>Briefly, before concoction, a purgacion is conuenient, in my iudgement, the manyfest quality of the humor compel<g ref="char:EOLhyphen"/>ling the quantity and place, of this iudgemēt is <hi>Antylus,</hi> and also <hi>Manardus libri tricesimi, epistola prima.</hi>
+            </p>
+            <p>In some the moouinge of nature, or of sicknesse, or of booth, dooth shewe the tyme of gyuing purgation.</p>
+            <p>To these, the strength of the sicke, the condicion of the ayre, and what thinges haue gone before, and are present, or belonge too bée purged, (as <hi>Galene</hi> teacheth <hi>nono Thera<g ref="char:EOLhyphen"/>pentices,</hi>) are too bée considered.</p>
+            <p>If so bée that apte moouinges are to bée holpen, and the depraued to be corrected. And it is depraued, if before con<g ref="char:EOLhyphen"/>coction, nature doo euacuate, sayth <hi>Leouellus in practica sua.</hi>
+            </p>
+            <p>Also, if by places not conuenient, and then it is too bée transferred, as affyrmeth <hi>Valescus in Philonio suo.</hi> And in diseases of swift moouing, it often happeneth in the begin<g ref="char:EOLhyphen"/>ning, that the rawe matter is euacuated, nature erringe, thorowe compulsion of sicknesse, as affirmeth <hi>Iohannes Ruellius.</hi> Which thinge, a skilfull Phisicion, soone kno<g ref="char:EOLhyphen"/>weth</p>
+            <pb facs="tcp:8344:29"/>
+            <p>Purgacions, which may bée vsed without daunger, bée those which be compounded,<note place="margin">Purgacions least dange<g ref="char:EOLhyphen"/>rous.</note> the hurtfull qualitie corrected, wherevppon wée may not so well vse simple medicines, sayeth <hi>Cardanus, de varietate rerum,</hi> although I brought in example, of <hi>Elleborus</hi> in the old tyme, which was permit<g ref="char:EOLhyphen"/>ted, when our bodyes were stronge, but not so nowe. For it behoueth (sayeth hée) for the most parte, in euery simple, eyther to qualifie the hurte, or to stunne the force, or too strengthen the weaknesse, or to correct the vnpleasantnesse. So vnlikely it is that any simple may aunswere to bée cor<g ref="char:EOLhyphen"/>respondent, for the curacion of sundrie affectes, whiche at once doo requyze diuers faculties, and at one instant, as is very learnedly sayde, of <hi>Celsus,</hi> and at large expressed of <hi>Montanus, in commentario de componendis medicamentis.</hi>
+            </p>
+            <p>The rule of <hi>Galene</hi> therefore is, that as farre as it is law<g ref="char:EOLhyphen"/>full, the medicine be made most pleasant, <hi>quarto de tuenda sanitate,</hi> peraduenture, according to that saying of <hi>Hippoc.</hi> The Phisicion ought to gratifye the sicke, in meates, drinkes, and medicines, <hi>sexto Epi.</hi> For in meate, there is a most excellent medicine, as he testifyeth. Wherefore <hi>Ae<g ref="char:EOLhyphen"/>tius</hi> doth mingle with meates, thinges which doo not onely soften and compresse the belly, making it smothe and slyp<g ref="char:EOLhyphen"/>pery, but also that haue force of drawing, as after bréefely shalbée expressed, of which thing s <hi>Ioannes a S. Amando, in concordant. Gal.</hi> and <hi>Matthaeus Graduensis,</hi> in <hi>gloss. super Ah.</hi> most wholesomely doo dispute.</p>
+            <p>
+               <note place="margin">Purgation for euery complectiō.</note>Medicines méete to purge the chollerique complexion, or such as bée troubled with cholerique diseases, are these, con<g ref="char:EOLhyphen"/>sideration had to the thinges afore expressed, as <hi>Gardonius</hi> affirmeth <hi>in practica sua.</hi>
+            </p>
+            <p>
+               <hi>R. Electuarii de succo rosarum, ana. z. iii. misce.</hi>
+            </p>
+            <p>
+               <hi>Diaprunis, ana. z. iii. misce.</hi>
+            </p>
+            <p>Take of the composicion, of the iuyce of roses.</p>
+            <p>Of the composicion of prunes, of eyther iii. drammes,
+<pb n="19" facs="tcp:8344:29"/>myngle them.</p>
+            <p>For the phlegmatique complexion, or them that are vexed, with phlegmatique diseases.</p>
+            <p>
+               <hi>R. Diaphaeniconis, z.v. misce.</hi>
+            </p>
+            <p>
+               <hi>Diacatholiconis, z.ii. misce.</hi>
+            </p>
+            <p>Take of the Electuarie of dates, v. drams, of the vniuer<g ref="char:EOLhyphen"/>sall composicion, two drams, let them be myngled.</p>
+            <p>For the melanchollique complexion, or them that are vexed with diseases thereof.</p>
+            <p>
+               <hi>R. Dia sennae lenitiiuae, ana.z.s. misce.</hi>
+            </p>
+            <p>
+               <hi>Confectionis hamech, ana.z.s. misce.</hi>
+            </p>
+            <p>Take of the Lenitiue Electuary of Sene, of hameches confection, of eche halfe an ounce, mingle them.</p>
+            <p>Take in the morninge fastinge, in pocyll whay, made with ale, to purge choller. In pocyli whay made of whyte wyne, to purge fleme. In pocyll whay, made of Gotes milk, for melancholly, receyuing a little warme brothe, within halfe an hower after, eating after that, nothinge vntill vij. or viii. howres be expyred, and kéeping the house, as <hi>Bacha<g ref="char:EOLhyphen"/>nellus</hi> willeth, <hi>lib. de consensu medicorū in curandis morbis.</hi>
+            </p>
+            <p>A Glyster of blessed operation for noble complexions which gently euacuateth phleme and blacke choller, &amp; gent<g ref="char:EOLhyphen"/>tly expelleth wynd,<note place="margin">Excellent good glis<g ref="char:EOLhyphen"/>ters.</note> and greatly auayleth agaynst the collick and gréefe of the bowels.</p>
+            <p>
+               <hi>R. Anize. ana. z. ii.</hi>
+            </p>
+            <p>
+               <hi>Croci, ana. z. ii.</hi>
+            </p>
+            <p>
+               <hi>Polipodii triti, bulliant cum aquae lactis caprarum, libris quinque, &amp; dissolue.</hi>
+            </p>
+            <p>
+               <hi>Hierae picrae, z. i.</hi>
+            </p>
+            <p>
+               <hi>Mellis, z. i.</hi>
+            </p>
+            <p>
+               <hi>Salis, z. i.</hi>
+            </p>
+            <p>
+               <hi>Olei violacei, z.ii. misce secundum artem.</hi>
+            </p>
+            <p>Take Okeferne rootes, Anyse séedes, Brused Safron, of eche two vnces, boyled in fyne pyntes, of the whay of gotes
+<pb facs="tcp:8344:30"/>milck, to the fourth part, into the which you shall dissolue, of Hiera piera one vnce, of hony two vnces, salt an vnce, oyle of violeis, twoo vnces, gyuing one after another, if néed re<g ref="char:EOLhyphen"/>quyre, for it will serue for thrée of fewre doses.</p>
+            <p>Another to prouoke vryne, and to open stoppings.</p>
+            <p>
+               <hi>R. Aquae lactis caprarum lib. d. in qua bulliat anisi pulueri<g ref="char:EOLhyphen"/>zati vn. i. d. quibus addes olei violacei. vn. ii.</hi>
+            </p>
+            <p>Take whay of Gotes mylke a pynt and an halfe, wherin let boyle of a walme or two, of anyse séede lightly brayed. ii. vnces, to the which adde of oyle of violettes, two vnces.</p>
+            <p>Another good to purge choller, and to mundifie the bloode with all the rest of the humoures in generall.</p>
+            <p>
+               <hi>R. Maluae, ana. manip. i.</hi>
+            </p>
+            <p>
+               <hi>Althaeae, ana. manip. i.</hi>
+            </p>
+            <p>
+               <hi>Atriplicis, ana. manip. i.</hi>
+            </p>
+            <p>
+               <hi>Mercurialis, ana. manip. i.</hi>
+            </p>
+            <p>
+               <hi>Acanthi, ana. manip. i.</hi>
+            </p>
+            <p>
+               <hi>Seminis Lini, ana. z. ii.</hi>
+            </p>
+            <p>
+               <hi>Foenigraeci, ana. z. ii.</hi>
+            </p>
+            <p>
+               <hi>Coquantur ad tercias, &amp; colo diffundantur, accipiatur{que}.</hi>
+            </p>
+            <p>
+               <hi>Furis decocti, lib. i.</hi>
+            </p>
+            <p>
+               <hi>Medullae cassiae fistularis, vnce i.</hi>
+            </p>
+            <p>
+               <hi>Hierae picrae, s.d.</hi>
+            </p>
+            <p>
+               <hi>Mellis rosacei colo transfusi, z. iii.s.d.</hi>
+            </p>
+            <p>
+               <hi>Olei ex olinis expressi. s. iij.</hi>
+            </p>
+            <p>
+               <hi>Salis vulgaris, z.i.s.d.</hi>
+            </p>
+            <p>
+               <hi>Commixtis omnibus, fiat enema.</hi>
+            </p>
+            <p>Take of Mallowes, Holyhocke, Orage, Mercury, swéete bryer, of euery one one handfull, lene séede, fenygréeke; of eche two drammes, boyle all in a quart of running water, vnto the third part, then strayne them, and take of the broth
+<pb n="20" facs="tcp:8344:30"/>boyled, one pynte, of the pyth of <hi>Cassi fistulae,</hi> one vnce, of <hi>Hiera picra</hi> i. half vnce, of hony of roses strayned, iii. drams, and an halfe, of oyle pressed out of olyues iii. vnces, of salt, i. dramme, and an halfe, of all myngled togyther, let there bée made a Clyster.</p>
+            <p>
+               <note place="margin">Good Iewels good chepe.</note>Fyner Iewels, further fet, déerer bought, lesse in quanti<g ref="char:EOLhyphen"/>tie, stronger in qualitie, more daungerous for the body, I could haue appoynted many thousandes: but bycause these are comune, of small pryce, euery where with the Apoteca<g ref="char:EOLhyphen"/>ries to be had, &amp; without daunger will doo their office, I trust they may serue for the poorer sort that are not of abilitie, too retayne counsaylours in phisicke, the riche, I wysh to resort to the learned Phisicions.</p>
+            <p>Slypery meates which rather make the bodye soluble, than doo bynd, are these, as at large is expressed of <hi>Aegineta,</hi>
+            </p>
+            <p>
+               <note place="margin">Meates solu<g ref="char:EOLunhyphen"/>ble or slip<g ref="char:EOLhyphen"/>pery.</note>Flesh of lambe, veale, pygge, fat capons, chickens, and all fat and moyst meates, rather boyled then rosted or baked.</p>
+            <p>Butter, mylke, breade not to drie baked nor too stale, béere of meane age, wyne with suggar ynough, swéet fruits, &amp; rype, as damaske prunes, cheryes, raceynes, damsons, &amp;c. Of herbes for your brothes and pocylles, mallowes, cycho<g ref="char:EOLhyphen"/>rye, endyue, vyolettes, pacyence, fumetory, and centaury a little quantitie, some vse, which will not onely make the broth to bytter, but also molest the body as doth sene, fill it with wynd, and weaken the stomacke sayth <hi>Mathiolus Se<g ref="char:EOLhyphen"/>nensis, super Diasco.</hi> and <hi>Mesue lib. de simplicibus.</hi> and as dayly experience proueth.<note place="margin">Tariance at Buckstone.</note> All these thinges needfull, con<g ref="char:EOLhyphen"/>sidered and obserued, for the xiiii. xx. or xi. dayes, you re<g ref="char:EOLhyphen"/>mayne there, and after you come thence, one moneth at the least, if your disease requyze it, kéepe the especiall <hi>Victus,</hi> expressed, but after you may returne to your former trade of lyfe, not hurtfull, so that alway prouyded, the day of your cōming thither, bée noted, before you enter into the Bathes, and the day of your departure, with the country of your ha<g ref="char:EOLhyphen"/>bitation,
+<pb facs="tcp:8344:31"/>condition or calling,<note place="margin">A register booke. A rate for the treasure of the poore</note> with the infirmityes, or cause you came for, in the regyster booke kept of the warden of the Bath, or the Phisition that ther shalbe appointed, &amp; the be<g ref="char:EOLhyphen"/>nefite you receyued, paying foure pence for the recording, and euery Yeoman besides, xij. pence, euery Gentleman iij. shillinges. Euery Esquior. iij. s. iiij. d. Euery Knight, vj. s. viij. d. Euery Lord, &amp; Baron, x. s. Euery Uicount, xiij. s. iiij. d. Euery Erle, xx. s. Euery Marques, xxx. s. Euery Duke, iij. pound x. s. Euery Archbishop. v. l. Euery Bishop xl. s. E<g ref="char:EOLhyphen"/>uery Iudge. xx. s. Euery Doctour, and Sargeant of lawe. x. s. Euery chauncellor, and vtter Barrister, vi. s. viij. d. E<g ref="char:EOLhyphen"/>uery Archdeacon, Prebendary, and Canon, v. s. Euery My<g ref="char:EOLhyphen"/>nister, xij. d. Euery Ducches, xl. s. Euery Marquesses, xx. s. Euery Countes xiij. s. iiij. d. Euery Barones. x. s. Euery La<g ref="char:EOLunhyphen"/>dy, vi. s. viij. d. Euery gentlewoman, ij. s. And al, for the trea<g ref="char:EOLhyphen"/>sure of the Bath, to the vse of the poore, that only for help, do come thither, the one halfe: the other to the Phisicion, for his residence.</p>
+            <p>Now if any shall think me ouer bold, too speake in the person of a Magistrate, let them consider with themselues two thinges méere contrary, their abilityes, and the poores néede, for sure I am, that none of all these recyted, but dooth twyse a yere in ydle pastime cast more then this, away in rayne. Therfore I trust, séeing it is to the poores, boxe and better meanes for your owne health, with other good vses, that from tyme to tyme, shall be there appointed, that there wilbe none, so straight laced, or of so vnpitifull a conscience, which will not, if they sée cause, draw theyr purse stringes wyder.</p>
+            <p>If they consider the good intent, to be aswell for the poore afflicted members of Christ (and what you gene vnto them you geue it me saith he) as also, for the honour of the Relme, the which, foreuer, God graunt Triumphant, Amen.</p>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:8344:31"/>
+            <head>The Prayer vsually to be sayd before Bathing.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S thou hast, most mercyfull Father, of thine infinite bounty and grace, ge<g ref="char:EOLhyphen"/>uen vs power, to come, to these thy Bathes, (preordinate, of thy deuine prouidence) for the benefite of vs thy deare creatures: So likewise rightly we confes, that the breach of thy most holly lawes, which we haue, to often done, is the very cause, that we be so vexed, greued, diseased, and enféebled, as a iust crosse, for our misdéedes, séeing that to the third, and fourth generation, thou hast said, thou wilt thē visite. Howbeit, we hope in thy mercies, vnto the which, as vnto a safe anchor (tossed in this miserable maze of world<g ref="char:EOLunhyphen"/>ly wretchednes) we certainly trust. Taking comfort of thy heauenly word, that whom thou chastisest, thou louest. So loue vs good Lord, that we vnfaynedly trusting in thy woord, the second person in Trinitie our Redéemer, and calling on thée in his name, (in one vnitie) may be reléeued, comforted, &amp; eased, as thou in thy word hast promised (if it be thy most gracious will) of all our gréefes, whether they be inward or outward in body or mind. By the benefite wherof, all the <hi>Athistes</hi> godles and careles of the world, may knowe thy power: that from thée, commeth health, to al Nations, for from thée commeth al knowledge, how to vse thy Creatures for our vses best.</p>
+            <p>Graunt therfore good Lord, the healthfull spirit of truth, the holy ghoste, to help, ayde, and assist vs, in all our afflyc<g ref="char:EOLhyphen"/>tions, and to guyde thy ministers, natures Interpreters, Phisitions, with thy heauenly health, that being strengthe<g ref="char:EOLhyphen"/>ned by thy influence, may not only, the better benefite vs, and the certeyner, assertaine vs, of thy gyftes, here and els
+<pb facs="tcp:8344:32"/>where, but also the better ayde, and assist vs, séeing they be thine appointed counsayloures, as they whom we can not be without, as thy liuely word teacheth: So then strengthen these Bathes, teach them, and assist vs, good Lord, that what is profitable, for our benefite, may be here had, they shewe, we séeke, find, and obserue: what hurteful they may declare, we refraine and withstand. This graunt eternall Father thorough the bloud, of the immaculate Lamb, Iesus Christ, that we departing hence, better in health, &amp; strength, therby may glorify thée, ouer all the worlde the more, too whome with the Sonne, and the holy ghost, be all glory, prayse, do<g ref="char:EOLhyphen"/>minion, and power, for euer and euer Amen.</p>
+            <p>God preserue, the Quéenes most royal Maiestie, Nobility, and Councell, and namely <hi>George</hi> the mightie Earle of Shrewesbury, and the noble Countesse <hi>Elizabeth</hi> his wyfe, whose good furtheraunce, in these edifyces, hath not lacked, with the right honorable, Lord Talbot, his sonne &amp; heyre, and the honourable Lady his wyfe, master Guylbart Tal<g ref="char:EOLhyphen"/>bot, and his most vertuous wyfe, his whole offpring, famely, and all the whole Land. Amen Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="index">
+            <pb facs="tcp:8344:32"/>
+            <head>¶ A necessary Table exactly drawen according to the order of the Alphabet, dyrecting the Readers very commodiously by the numbre of the Pages to all such chéefe and notable matters as are in this brief trea<g ref="char:EOLhyphen"/>ty contayned.</head>
+            <list>
+               <item>A Phisicion with a competent stypend appointed at Buck<g ref="char:EOLunhyphen"/>stone. folio. 3. pag. 1</item>
+               <item>A dulce Bathe euacuateth by the pores superfluous hu<g ref="char:EOLhyphen"/>mours. fo. 3. pa. 2</item>
+               <item>A dulce Bathe taketh away dystemperature of heate or cold. idem.</item>
+               <item>Apostemes are amended by the Bathes of Buckstone. fo. 4. pa. 1</item>
+               <item>A purgacion for the melancholique, fo. 19. pa. 1</item>
+               <item>A good conscyence releaueth the poore. fo. 20. pa. 2</item>
+               <item>A Regystre booke to be kept at Buckstone. idem</item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>Buckstones Bathes, who hath edifyed. fo. 2. pa. 2</item>
+               <item>Bath gate betwene Burthe and Buckstone. fo. 1. pa. 1</item>
+               <item>Burglary excepted out of the Sanctuary. fo. 2. pa. 2</item>
+               <pb facs="tcp:8344:33"/>
+               <item>Bathes of Brimstone, Alume &amp;c. haue force of drying. fo. 3. pa. 2</item>
+               <item>Buckstones bathes heale Rheumes.fol. 4. pag. 1.</item>
+               <item>Best bread made of wheat. fo. 9. pag. 1.</item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>Crampes are healed by the Bathes of Buckston. fo. 4. pa. 1</item>
+               <item>Clysters very excellent, fo. 19</item>
+               <item>Commons and mores lying waste and vnmanured, should bee brought to tyllage, and better husbandrie, fo. 2. pa. 2</item>
+               <item>Crisis definied. fo. 6. pa. 5</item>
+            </list>
+            <list>
+               <head>D</head>
+               <item>Definition of artificiall Bathes, fo. 1. pa. 2</item>
+               <item>Diete, vse of necessarie causes termed of Galen. fo. 5. pa. 2</item>
+               <item>Distemperature taken away by Diete. idem</item>
+               <item>Diete of three kindes, idem</item>
+               <item>Diete when it is wholly taken awaye, fo. 7. pa. 1</item>
+               <item>Diete when it is diminished, idem</item>
+               <item>Diete when it is encreased. idem, pa. 2</item>
+               <item>Diete how long after your departure from Buckstone, is to be obserued. fo. 20. pa, 1</item>
+               <item>Drithe, appetite of a thing colde and moyst, fo. 9. pa. 2</item>
+               <item>Doses of medicines varied according to, fol. 14. pa. 2</item>
+               <item>Dayes of continuance at Buckstone, fol. 2. pa. 1</item>
+            </list>
+            <list>
+               <head>E</head>
+               <item>Euery mouing is not an exercise, fol. 11.</item>
+               <item>Exercise ought to bee before meate, idem</item>
+               <item>Exercise, alteration of breath, idem</item>
+               <item>Effectes of purging, fol. 16. pa. 2</item>
+               <item>Exercises appointed at Buckstone, fol. 12. pag. 1</item>
+            </list>
+            <list>
+               <head>F</head>
+               <item>Fryday, market weakely, fol. 2. pa. 2</item>
+               <item>Feuers are cured by Buckstons baths, fol. 4. pa. 1</item>
+               <item>Frication what, fol. 13. pa. 2</item>
+               <item>Force of frication, idem.</item>
+            </list>
+            <pb facs="tcp:8344:33"/>
+            <list>
+               <head>G</head>
+               <item>Good times to take purgation. fo. 17. pa. 1</item>
+               <item>Grief for lacke of purging fo. 16. pa. 2</item>
+               <item>Good rules to be obserued in purging. fo. 16. pa 1</item>
+               <item>Good to take a preparatiue before purgation fo, 17. pa, 2</item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>How drink doth disperse the meate fo. 9. pa. 2</item>
+               <item>How and what frutes, fish, and wines, may be permitted at Buckstones fo. 10. pa 1</item>
+               <item>Headaches are cured by the Bathes of Buckston, fo. 4. pa. 2</item>
+            </list>
+            <list>
+               <head>I</head>
+               <item>Indication taken of age, custome &amp;c. fo, 8. pa. 1</item>
+               <item>In pestilent seasones, Bathes must be auoyded, fo, 13. pa. 1</item>
+            </list>
+            <list>
+               <head>K</head>
+               <item>Kyndes of purging, fo. 15.16</item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>Lodginges at Buckstone for the poore prepered by Elizabeth the Countesse of Shrewesbury, fol, 2. pa. 2</item>
+               <item>Lycense for the sick to eate flesh at all time, idem,</item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>Murther excepted out of the sanctuarie, idem.</item>
+               <item>Maine bread of Yorke of all other the finest, fo, 9. pa. 2</item>
+               <item>Medicine what it is, fo. 14. pa. 2</item>
+               <item>Meates slippery, fo. 20. pa. 1</item>
+               <item>Medicines purging choller, fo. 19. pa. 2</item>
+               <item>Musique what it profiteth, fo. 13. pa. 1</item>
+               <item>Meates best continually at Buckstones. fo. 10. pa. 1</item>
+            </list>
+            <list>
+               <head>N</head>
+               <item>No hot Bathe without the myne of brimstone as saith Aris<g ref="char:EOLhyphen"/>totle fo. 17. pa. 2</item>
+               <item>Numnes healed by the Bathes of Buckstone, fo. 4. pa, 1</item>
+               <item>Nourishmentes spring of the first coniunction of Elementes, fo. 8. pa. 2</item>
+               <item>Nothing nourisheth, which is not nourished. fo. 6. pa. 2</item>
+            </list>
+            <pb facs="tcp:8344:34"/>
+            <list>
+               <head>O</head>
+               <item>Of nourishments ther is a duble faculty. fo. ibidem.</item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>Phisicions learned and great store in England. fol. 5. pa. 2</item>
+               <item>Phisicke excelleth all artes and sciensis. fol. ibidem,</item>
+               <item>Purgation what, fo. 16. pa. 2. fol. 15. pa. 1</item>
+               <item>Purgation generall and particular, fo. 15. pa. 1</item>
+               <item>Purgacion for the phlegmatique. fol. 19. pa. 1</item>
+               <item>Preparatiues when. fol. 17. pag. 2</item>
+               <item>Prayer to be vsed before entring into the Bathe. fol. 21</item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>Reason of artes hard to attayne, fo. 1. pa. 2</item>
+               <item>Rape excepted out of the Sanctuarie. fol. 2. pa. 2</item>
+               <item>Robbing by the hye way excepted out of the sanctuarie idem</item>
+               <item>Ringwormes are healed by Buckstones Bathes, idem</item>
+               <item>Rules to be obserued in purging. fol. 19. pa. 1</item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>Sanctuary for the sick. fo. 2. pag. 2</item>
+               <item>Sacrylege excepted out of the sanctuarie. idem</item>
+               <item>Shrinkings are cured by the Bathes of Buckstone. fol. 4. pa. 1</item>
+               <item>Sene filleth the body with wynd and weakeneth the stomacke fol. 20. pa. 1</item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>The Bathes beutifyed with seates fol. 21. pa. 2</item>
+               <item>Treason excepted out of the sanctuarie, idem</item>
+               <item>Two fayres yearely, idem</item>
+               <item>The vvels of Buckston good for weake synowes, fol. 4</item>
+               <item>The surest way to the rooting out of any sicknes is dyete. fol. 8. pa. 2</item>
+               <item>To th'use of necessary causes three things are expedient. idem</item>
+               <item>Tymes to eate. fo. 10. pa. 1</item>
+               <item>Tymes of bathing. fo. 13. pa. 1</item>
+               <item>Tymes fit for purgation according to Astronomy. fol. 17. pa. 1</item>
+               <item>The day of your coming and departure, must be noted in the
+<pb facs="tcp:8344:34"/>regystre booke. fol. 2</item>
+               <item>Times of sicknesses. fol. 6. pa. 1</item>
+            </list>
+            <list>
+               <head>V</head>
+               <item>Very welth is health. fol. 5. pag. 1</item>
+               <item>Vlcers are cured by the Bathes of Buckston. fol. 4</item>
+               <item>VVholsome ayer at Buckstone. fol. 10. pa. 2</item>
+               <item>Vryne a note of the tyme to beginne exercyse fol. 11. pa. 2</item>
+               <item>VVhat exercyse at Buckstone fol. 12</item>
+               <item>VVhat to be giuen for the poore and other vses. fol. 20</item>
+               <item>VVhat the new diet doth. fol. 6. pa. 2.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="errata">
+            <head>Faults escaped.</head>
+            <list>
+               <item>Fol. 1. page. 2. line. 4. read therfore, for ther.</item>
+               <item>Fol. 1. pag. 2. in the note read definition for signification.</item>
+               <item>Fol. 3. pag. 1. line. 2. read the most part, for foure parts.</item>
+               <item>Fol. 6. pag. 2. line. 32. read <hi>luc,</hi> for <hi>hic.</hi>
+               </item>
+               <item>Fol. 7. pag. 2. line. 9. read hard, for euen.</item>
+               <item>Fol. 7. pag. 2. line. 34. read present, for preserued.</item>
+               <item>Fol. 15. pag. 1. line. 25. read or splene, for of splene.</item>
+               <item>Fol. 15. pag. 2. line. 17. read familiar, for fumitor.</item>
+               <item>Fol. 17. pag. 1. line. 28. read <hi>Amicus,</hi> for <hi>Auicennes.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:8344:35"/>
+         </div>
+      </back>
+   </text>
+</TEI>
